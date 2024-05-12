@@ -1,0 +1,739 @@
+System,LdrLoadDll,{"module_name": "CRYPTBASE.DLL"}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Memory,NtAllocateVirtualMemory,{"AllocationType": 4096}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".nls"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "comctl32.dll"}
+System,LdrLoadDll,{"module_name": "IEFRAME.dll"}
+System,LdrLoadDll,{"module_name": "rpcrt4.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "IEShims.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "USER32.dll"}
+System,LdrLoadDll,{"module_name": "OLEAUT32.DLL"}
+System,LdrLoadDll,{"module_name": "comdlg32.dll"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-advapi32-l1-1-0.dll"}
+System,LdrLoadDll,{"module_name": "ADVAPI32.dll"}
+System,LdrLoadDll,{"module_name": "urlmon.dll"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrLoadDll,{"module_name": "dwmapi.dll"}
+System,LdrLoadDll,{"module_name": "SHELL32.dll"}
+System,LdrLoadDll,{"module_name": "ole32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "sqmapi.dll"}
+System,LdrLoadDll,{"module_name": "WININET.dll"}
+System,LdrLoadDll,{"module_name": "Secur32.dll"}
+System,LdrLoadDll,{"module_name": "SHELL32.dll"}
+System,LdrLoadDll,{"module_name": "ADVAPI32.dll"}
+System,LdrLoadDll,{"module_name": "profapi.dll"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-advapi32-l2-1-0.dll"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-ole32-l1-1-0.dll"}
+System,LdrLoadDll,{"module_name": "urlmon.dll"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrLoadDll,{"module_name": "WS2_32.dll"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrLoadDll,{"module_name": "winhttp.dll"}
+System,LdrLoadDll,{"module_name": "mswsock.dll"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-shlwapi-l2-1-0.dll"}
+System,LdrLoadDll,{"module_name": "wship6.dll"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "IPHLPAPI.DLL"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "OLEAUT32.dll"}
+System,LdrLoadDll,{"module_name": "oleaut32.dll"}
+System,LdrLoadDll,{"module_name": "ADVAPI32.dll"}
+System,LdrLoadDll,{"module_name": "WS2_32.dll"}
+System,LdrLoadDll,{"module_name": "mswsock.dll"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-advapi32-l2-1-0.dll"}
+System,LdrLoadDll,{"module_name": "wshtcpip.dll"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-advapi32-l2-1-0.dll"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-shlwapi-l2-1-0.dll"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "mswsock.dll"}
+System,LdrLoadDll,{"module_name": "USER32.dll"}
+System,LdrLoadDll,{"module_name": "DNSAPI.dll"}
+System,LdrLoadDll,{"module_name": "IPHLPAPI.DLL"}
+System,LdrLoadDll,{"module_name": "NTDLL.DLL"}
+System,LdrLoadDll,{"module_name": "RPCRT4.dll"}
+System,LdrLoadDll,{"module_name": "suspend.dll"}
+System,LdrLoadDll,{"module_name": "rasadhlp.dll"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-ole32-l1-1-0.dll"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-shlwapi-l2-1-0.dll"}
+System,LdrLoadDll,{"module_name": "API-MS-Win-Security-SDDL-L1-1-0.dll"}
+System,LdrLoadDll,{"module_name": "ieproxy.dll"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "SHELL32.dll"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "fwpuclnt.dll"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-advapi32-l2-1-0.dll"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-ole32-l1-1-0.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll.mui"}
+System,LdrLoadDll,{"module_name": "comctl32.dll"}
+System,LdrLoadDll,{"module_name": "user32.dll"}
+System,LdrLoadDll,{"module_name": "IEUI.dll"}
+System,LdrLoadDll,{"module_name": "IEUI.dll"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "ole32.dll"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "PROPSYS.dll"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+System,LdrLoadDll,{"module_name": "ADVAPI32.dll"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dat"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+System,LdrLoadDll,{"module_name": "UxTheme.dll"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+System,LdrLoadDll,{"module_name": "UxTheme.dll"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+System,LdrLoadDll,{"module_name": "OLEAUT32.dll"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+System,LdrLoadDll,{"module_name": "IMM32.dll"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll.mui"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".{F50B10BB-DAFD-11EB-B30A-6C7D1ADB378C}.dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+System,LdrLoadDll,{"module_name": "CRYPTBASE.DLL"}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".nls"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-shell32-l1-1-0.dll"}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 255}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "comctl32.dll"}
+System,LdrLoadDll,{"module_name": "IEFRAME.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "IEShims.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "ADVAPI32.dll"}
+System,LdrLoadDll,{"module_name": "USER32.dll"}
+System,LdrLoadDll,{"module_name": "OLEAUT32.DLL"}
+System,LdrLoadDll,{"module_name": "OLE32.DLL"}
+System,LdrLoadDll,{"module_name": "comdlg32.dll"}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 255}
+Process,NtProtectVirtualMemory,{"flags": 1}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-ole32-l1-1-0.dll"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-advapi32-l1-1-0.dll"}
+System,LdrLoadDll,{"module_name": "WININET.dll"}
+System,LdrLoadDll,{"module_name": "Secur32.dll"}
+System,LdrLoadDll,{"module_name": "rpcrt4.dll"}
+System,LdrLoadDll,{"module_name": "SHELL32.dll"}
+System,LdrLoadDll,{"module_name": "ole32.dll"}
+System,LdrLoadDll,{"module_name": "ADVAPI32.dll"}
+System,LdrLoadDll,{"module_name": "profapi.dll"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-advapi32-l2-1-0.dll"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-ole32-l1-1-0.dll"}
+System,LdrLoadDll,{"module_name": "ADVAPI32.dll"}
+System,LdrLoadDll,{"module_name": "urlmon.dll"}
+System,LdrLoadDll,{"module_name": "WS2_32.dll"}
+System,LdrLoadDll,{"module_name": "winhttp.dll"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-advapi32-l2-1-0.dll"}
+System,LdrLoadDll,{"module_name": "USER32.dll"}
+System,LdrLoadDll,{"module_name": "mswsock.dll"}
+System,LdrLoadDll,{"module_name": "wship6.dll"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "IPHLPAPI.DLL"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-ole32-l1-1-0.dll"}
+System,LdrLoadDll,{"module_name": "CRYPTSP.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "rsaenh.dll"}
+System,LdrLoadDll,{"module_name": "ADVAPI32.dll"}
+System,LdrLoadDll,{"module_name": "CRYPTBASE.dll"}
+System,LdrLoadDll,{"module_name": "RpcRtRemote.dll"}
+System,LdrLoadDll,{"module_name": "CLBCatQ.DLL"}
+System,LdrLoadDll,{"module_name": "ieproxy.dll"}
+System,LdrLoadDll,{"module_name": "dwmapi.dll"}
+System,LdrLoadDll,{"module_name": "urlmon.dll"}
+System,LdrLoadDll,{"module_name": "SHELL32.dll"}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+System,LdrLoadDll,{"module_name": "sqmapi.dll"}
+System,LdrLoadDll,{"module_name": "user32.dll"}
+System,LdrLoadDll,{"module_name": "IEUI.dll"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-ole32-l1-1-0.dll"}
+System,LdrLoadDll,{"module_name": "urlmon.dll"}
+System,LdrLoadDll,{"module_name": "MSHTML.dll"}
+System,LdrLoadDll,{"module_name": "d2d1.dll"}
+System,LdrLoadDll,{"module_name": "DWrite.dll"}
+System,LdrLoadDll,{"module_name": "dxgi.dll"}
+File,NtCreateFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".exe"}
+System,LdrLoadDll,{"module_name": "DXGIDebug.dll"}
+System,LdrLoadDll,{"module_name": "DXGIDebug.dll"}
+System,LdrLoadDll,{"module_name": "DXGIDebug.dll"}
+File,NtCreateFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".exe"}
+System,LdrLoadDll,{"module_name": "gdi32.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll.mui"}
+System,LdrLoadDll,{"module_name": "API-MS-Win-Core-LocalRegistry-L1-1-0.dll"}
+System,LdrLoadDll,{"module_name": "setupapi.dll"}
+System,LdrLoadDll,{"module_name": "WINTRUST.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll.mui"}
+System,LdrLoadDll,{"module_name": "API-MS-Win-Core-LocalRegistry-L1-1-0.dll"}
+System,LdrLoadDll,{"module_name": "setupapi.dll"}
+System,LdrLoadDll,{"module_name": "WINTRUST.dll"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "ole32.dll"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-shlwapi-l2-1-0.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll.mui"}
+System,LdrLoadDll,{"module_name": "USER32.dll"}
+System,LdrLoadDll,{"module_name": "comctl32.dll"}
+System,LdrLoadDll,{"module_name": "comctl32.dll"}
+System,LdrLoadDll,{"module_name": "OLEAUT32.dll"}
+System,LdrLoadDll,{"module_name": "SHELL32.dll"}
+System,LdrLoadDll,{"module_name": "ole32.dll"}
+System,LdrLoadDll,{"module_name": "UxTheme.dll"}
+System,LdrLoadDll,{"module_name": "UxTheme.dll"}
+System,LdrLoadDll,{"module_name": "ADVAPI32.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dat"}
+System,LdrLoadDll,{"module_name": "ole32.dll"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-advapi32-l2-1-0.dll"}
+System,LdrLoadDll,{"module_name": "apphelp.dll"}
+System,LdrLoadDll,{"module_name": "AcroIEHelper.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".sdb"}
+File,NtCreateFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".DLL"}
+File,NtCreateFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".DLL"}
+File,NtCreateFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".DLL"}
+File,NtCreateFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".DLL"}
+File,NtCreateFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".DLL"}
+System,LdrLoadDll,{"module_name": "urlmon.dll"}
+System,LdrLoadDll,{"module_name": "SXS.DLL"}
+System,LdrLoadDll,{"module_name": "ADVAPI32.dll"}
+File,NtCreateFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+System,LdrLoadDll,{"module_name": "apphelp.dll"}
+System,LdrLoadDll,{"module_name": "API-MS-WIN-DOWNLEVEL-SHLWAPI-L1-1-0.DLL"}
+System,LdrLoadDll,{"module_name": "api-ms-win-downlevel-shlwapi-l2-1-0.dll"}
+System,LdrLoadDll,{"module_name": "OLEAUT32.dll"}
+System,LdrLoadDll,{"module_name": "Secur32.dll"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".txt.html"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".txt.html"}
+System,LdrLoadDll,{"module_name": "OLEAUT32.dll"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".txt.html"}
+System,LdrLoadDll,{"module_name": "UxTheme.dll"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".txt.html"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".txt.html"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".txt.html"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll.mui"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll.mui"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".1.db"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".1.db"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll.mui"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".txt.html"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".txt.html"}
+File,NtCreateFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".exe"}
+File,NtCreateFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".exe"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".exe"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".exe"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}

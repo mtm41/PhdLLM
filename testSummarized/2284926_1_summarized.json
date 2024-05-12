@@ -1,0 +1,200 @@
+System,LdrGetProcedureAddress,{"module_name": "NtQueryVirtualMemory"}
+System,LdrGetProcedureAddress,{"module_name": "FlsAlloc"}
+System,LdrGetProcedureAddress,{"module_name": "FlsGetValue"}
+System,LdrGetProcedureAddress,{"module_name": "FlsSetValue"}
+System,LdrGetProcedureAddress,{"module_name": "FlsFree"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "CryptAcquireContextA"}
+System,LdrGetProcedureAddress,{"module_name": "CryptCreateHash"}
+System,LdrGetProcedureAddress,{"module_name": "CryptHashData"}
+System,LdrGetProcedureAddress,{"module_name": "CryptGetHashParam"}
+System,LdrGetProcedureAddress,{"module_name": "CryptDestroyHash"}
+System,LdrGetProcedureAddress,{"module_name": "CryptReleaseContext"}
+System,LdrGetProcedureAddress,{"module_name": "GetMartaExtensionInterface"}
+System,LdrGetProcedureAddress,{"module_name": "CryptImportKey"}
+System,LdrGetProcedureAddress,{"module_name": "CryptGetKeyParam"}
+System,LdrGetProcedureAddress,{"module_name": "CryptGenRandom"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "IsWow64Process"}
+System,LdrGetProcedureAddress,{"module_name": "CryptSetHashParam"}
+System,LdrGetProcedureAddress,{"module_name": "CryptEncrypt"}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,LdrGetProcedureAddress,{"module_name": "WSAIoctl"}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,LdrGetProcedureAddress,{"module_name": "NotifyIpInterfaceChange"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "NotifyUnicastIpAddressChange"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "GetBestInterfaceEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetIfEntry2"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "WSAGetOverlappedResult"}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "CryptDestroyKey"}
+System,LdrGetProcedureAddress,{"module_name": "IsWow64Process"}
+System,LdrGetProcedureAddress,{"module_name": "LoadStringW"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetCaps"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetUser"}
+System,LdrGetProcedureAddress,{"module_name": "NPAddConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPAddConnection3"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetReconnectFlags"}
+System,LdrGetProcedureAddress,{"module_name": "NPCancelConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnection3"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetUniversalName"}
+System,LdrGetProcedureAddress,{"module_name": "NPOpenEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NPEnumResource"}
+System,LdrGetProcedureAddress,{"module_name": "NPCloseEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetResourceParent"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetResourceInformation"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetCaps"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetUser"}
+System,LdrGetProcedureAddress,{"module_name": "NPAddConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPAddConnection3"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetReconnectFlags"}
+System,LdrGetProcedureAddress,{"module_name": "NPCancelConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnection3"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetUniversalName"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnectionPerformance"}
+System,LdrGetProcedureAddress,{"module_name": "NPOpenEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NPEnumResource"}
+System,LdrGetProcedureAddress,{"module_name": "NPCloseEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NPFormatNetworkName"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetResourceParent"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetResourceInformation"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetCaps"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetUser"}
+System,LdrGetProcedureAddress,{"module_name": "NPAddConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPAddConnection3"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetReconnectFlags"}
+System,LdrGetProcedureAddress,{"module_name": "NPCancelConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnection3"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetUniversalName"}
+System,LdrGetProcedureAddress,{"module_name": "NPOpenEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NPEnumResource"}
+System,LdrGetProcedureAddress,{"module_name": "NPCloseEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NPFormatNetworkName"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetResourceParent"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetResourceInformation"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "LookupAccountSidW"}
+System,LdrGetProcedureAddress,{"module_name": "CreateWellKnownSid"}
+System,LdrGetProcedureAddress,{"module_name": "RpcStringBindingComposeW"}
+System,LdrGetProcedureAddress,{"module_name": "RpcBindingFromStringBindingW"}
+System,LdrGetProcedureAddress,{"module_name": "RpcStringFreeW"}
+System,LdrGetProcedureAddress,{"module_name": "RpcBindingSetAuthInfoExW"}
+System,LdrGetProcedureAddress,{"module_name": "LookupAccountNameLocalW"}
+System,LdrGetProcedureAddress,{"module_name": "NdrClientCall2"}
+System,LdrGetProcedureAddress,{"module_name": "RpcBindingFree"}
+System,LdrGetProcedureAddress,{"module_name": "NetWkstaGetInfo"}
+System,LdrGetProcedureAddress,{"module_name": "CscNetApiGetInterface"}
+System,LdrGetProcedureAddress,{"module_name": "NetApiBufferFree"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "NetUseEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NetRemoteComputerSupports"}
+System,LdrGetProcedureAddress,{"module_name": "RpcStringBindingComposeW"}
+System,LdrGetProcedureAddress,{"module_name": "RpcBindingFromStringBindingW"}
+System,LdrGetProcedureAddress,{"module_name": "RpcStringFreeW"}
+System,LdrGetProcedureAddress,{"module_name": "NdrClientCall2"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "I_RpcExceptionFilter"}
+System,LdrGetProcedureAddress,{"module_name": "RpcBindingFree"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "NetServerEnum"}
+System,LdrGetProcedureAddress,{"module_name": "OpenSCManagerW"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}

@@ -1,0 +1,400 @@
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".docx"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".docx"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".docx"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".docx"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".docx"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".docx"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".docx"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".docx"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".docx"}
+System,LdrLoadDll,{"module_name": "OLEAUT32.dll"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrLoadDll,{"module_name": "kernel32.dll"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".Word"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".Word"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".Word"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+System,LdrLoadDll,{"module_name": "gdi32.dll"}
+System,LdrLoadDll,{"module_name": "USP10.DLL"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrLoadDll,{"module_name": "ADVAPI32.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dat"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".rcd"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".rcd"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".rcd"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".rcd"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrLoadDll,{"module_name": "RPCRT4.dll"}
+System,LdrLoadDll,{"module_name": "unidrvui.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".BUD"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".gpd"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".gpd"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".gpd"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".gpd"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+System,LdrLoadDll,{"module_name": "winspool.drv"}
+System,LdrLoadDll,{"module_name": "mxdwdrv.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrLoadDll,{"module_name": "FontSub.dll"}
+System,LdrLoadDll,{"module_name": "unidrvui.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+System,LdrLoadDll,{"module_name": "FontSub.dll"}
+System,LdrLoadDll,{"module_name": "unidrvui.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+System,LdrLoadDll,{"module_name": "FontSub.dll"}
+System,LdrLoadDll,{"module_name": "unidrvui.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+System,LdrLoadDll,{"module_name": "FontSub.dll"}
+System,LdrLoadDll,{"module_name": "unidrvui.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+System,LdrLoadDll,{"module_name": "prntvpt.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+System,LdrLoadDll,{"module_name": "FontSub.dll"}
+System,LdrLoadDll,{"module_name": "unidrvui.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+System,LdrLoadDll,{"module_name": "prntvpt.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+System,LdrLoadDll,{"module_name": "SendToOneNoteUI.DLL"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".MSO"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".MSO"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".MSO"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".png"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": ".DLL"}
+System,LdrLoadDll,{"module_name": "Kernel32.dll"}
+System,LdrLoadDll,{"module_name": "GdiPlus.dll"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrLoadDll,{"module_name": "GdiPlus.dll"}
+System,LdrLoadDll,{"module_name": "WindowsCodecs.dll"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".jpeg"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".jpeg"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".xml"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+System,LdrLoadDll,{"module_name": "apphelp.dll"}
+File,NtOpenFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtOpenFile,{"Directory": "C:\\Windows", "FileExtension": ".windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac"}
+System,LdrLoadDll,{"module_name": "ole32.dll"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}

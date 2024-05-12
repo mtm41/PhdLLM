@@ -1,0 +1,200 @@
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".dll"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".api"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".api"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".dll"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files (x86)", "FileExtension": ".dll"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}

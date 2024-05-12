@@ -1,0 +1,2046 @@
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Diagnostics"}
+System,LdrGetProcedureAddress,{"module_name": "RegOpenKeyExW"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework\\Policy\\"}
+System,LdrGetProcedureAddress,{"module_name": "RegQueryInfoKeyW"}
+System,LdrGetProcedureAddress,{"module_name": "RegEnumKeyExW"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\.NETFramework\\Policy\\v4.0"}
+System,LdrGetProcedureAddress,{"module_name": "RegCloseKey"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework"}
+System,LdrGetProcedureAddress,{"module_name": "RegQueryValueExW"}
+System,LdrGetProcedureAddress,{"module_name": "RegQueryValueExW"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,LdrGetProcedureAddress,{"module_name": "FlsAlloc"}
+System,LdrGetProcedureAddress,{"module_name": "FlsFree"}
+System,LdrGetProcedureAddress,{"module_name": "FlsGetValue"}
+System,LdrGetProcedureAddress,{"module_name": "FlsSetValue"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeCriticalSectionEx"}
+System,LdrGetProcedureAddress,{"module_name": "CreateEventExW"}
+System,LdrGetProcedureAddress,{"module_name": "CreateSemaphoreExW"}
+System,LdrGetProcedureAddress,{"module_name": "SetThreadStackGuarantee"}
+System,LdrGetProcedureAddress,{"module_name": "CreateThreadpoolTimer"}
+System,LdrGetProcedureAddress,{"module_name": "SetThreadpoolTimer"}
+System,LdrGetProcedureAddress,{"module_name": "WaitForThreadpoolTimerCallbacks"}
+System,LdrGetProcedureAddress,{"module_name": "CloseThreadpoolTimer"}
+System,LdrGetProcedureAddress,{"module_name": "CreateThreadpoolWait"}
+System,LdrGetProcedureAddress,{"module_name": "SetThreadpoolWait"}
+System,LdrGetProcedureAddress,{"module_name": "CloseThreadpoolWait"}
+System,LdrGetProcedureAddress,{"module_name": "FlushProcessWriteBuffers"}
+System,LdrGetProcedureAddress,{"module_name": "FreeLibraryWhenCallbackReturns"}
+System,LdrGetProcedureAddress,{"module_name": "GetCurrentProcessorNumber"}
+System,LdrGetProcedureAddress,{"module_name": "GetLogicalProcessorInformation"}
+System,LdrGetProcedureAddress,{"module_name": "CreateSymbolicLinkW"}
+System,LdrGetProcedureAddress,{"module_name": "SetDefaultDllDirectories"}
+System,LdrGetProcedureAddress,{"module_name": "EnumSystemLocalesEx"}
+System,LdrGetProcedureAddress,{"module_name": "CompareStringEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetDateFormatEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetLocaleInfoEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetTimeFormatEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetUserDefaultLocaleName"}
+System,LdrGetProcedureAddress,{"module_name": "IsValidLocaleName"}
+System,LdrGetProcedureAddress,{"module_name": "LCMapStringEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetCurrentPackageId"}
+System,LdrGetProcedureAddress,{"module_name": "GetTickCount64"}
+System,LdrGetProcedureAddress,{"module_name": "GetFileInformationByHandleExW"}
+System,LdrGetProcedureAddress,{"module_name": "SetFileInformationByHandleW"}
+System,LdrGetProcedureAddress,{"module_name": "EventRegister"}
+System,LdrGetDllHandle,{"module_name": "api-ms-win-eventing-provider-l1-1-0"}
+System,LdrGetDllHandle,{"module_name": "api-ms-win-eventing-provider-l1-1-0"}
+System,LdrGetDllHandle,{"module_name": "advapi32"}
+System,LdrGetProcedureAddress,{"module_name": "EventSetInformation"}
+System,LdrGetDllHandle,{"module_name": "mscoree.dll"}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,LdrGetProcedureAddress,{"module_name": "RegOpenKeyExW"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework"}
+System,LdrGetProcedureAddress,{"module_name": "RegQueryValueExW"}
+System,LdrGetProcedureAddress,{"module_name": "RegCloseKey"}
+System,LdrGetProcedureAddress,{"module_name": "RegisterShimImplCallback"}
+System,LdrGetProcedureAddress,{"module_name": "RegisterShimImplCleanupCallback"}
+System,LdrGetProcedureAddress,{"module_name": "SetShellShimInstance"}
+System,LdrGetProcedureAddress,{"module_name": "OnShimDllMainCalled"}
+System,LdrGetProcedureAddress,{"module_name": "_CorExeMain_RetAddr"}
+System,LdrGetProcedureAddress,{"module_name": "_CorExeMain"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\.NETFramework"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework"}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 255}
+System,LdrGetDllHandle,{"module_name": "IMM32.DLL"}
+System,LdrGetDllHandle,{"module_name": "IMM32.DLL"}
+System,LdrGetDllHandle,{"module_name": "IMM32.DLL"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize\\DisableMetaFiles"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetDllHandle,{"module_name": "LPK.DLL"}
+System,LdrGetProcedureAddress,{"module_name": "LpkTabbedTextOut"}
+System,LdrGetProcedureAddress,{"module_name": "LpkPSMTextOut"}
+System,LdrGetProcedureAddress,{"module_name": "LpkDrawTextEx"}
+System,LdrGetProcedureAddress,{"module_name": "LpkEditControl"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\LoadAppInit_DLLs"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "GetCharABCWidthsI"}
+System,LdrGetProcedureAddress,{"module_name": "UrlIsW"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".exe.config"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "\\Policy\\Standards"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\.NETFramework\\Policy\\Standards"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\.NETFramework\\Policy\\Standards\\v4.0.30319"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework\\v4.0.30319\\SKUs\\"}
+System,LdrGetProcedureAddress,{"module_name": "CreateThreadpoolWait"}
+System,LdrGetProcedureAddress,{"module_name": "SetThreadpoolWait"}
+System,LdrGetProcedureAddress,{"module_name": "CloseThreadpoolWait"}
+System,LdrGetProcedureAddress,{"module_name": "FlushProcessWriteBuffers"}
+System,LdrGetProcedureAddress,{"module_name": "FreeLibraryWhenCallbackReturns"}
+System,LdrGetProcedureAddress,{"module_name": "GetCurrentProcessorNumber"}
+System,LdrGetProcedureAddress,{"module_name": "GetLogicalProcessorInformation"}
+System,LdrGetProcedureAddress,{"module_name": "CreateSymbolicLinkW"}
+System,LdrGetProcedureAddress,{"module_name": "SetDefaultDllDirectories"}
+System,LdrGetProcedureAddress,{"module_name": "EnumSystemLocalesEx"}
+System,LdrGetProcedureAddress,{"module_name": "CompareStringEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetDateFormatEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetLocaleInfoEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetTimeFormatEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetUserDefaultLocaleName"}
+System,LdrGetProcedureAddress,{"module_name": "IsValidLocaleName"}
+System,LdrGetProcedureAddress,{"module_name": "LCMapStringEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetCurrentPackageId"}
+System,LdrGetProcedureAddress,{"module_name": "GetTickCount64"}
+System,LdrGetProcedureAddress,{"module_name": "GetFileInformationByHandleExW"}
+System,LdrGetProcedureAddress,{"module_name": "SetFileInformationByHandleW"}
+System,LdrGetDllHandle,{"module_name": "api-ms-win-eventing-provider-l1-1-0"}
+System,LdrGetDllHandle,{"module_name": "api-ms-win-eventing-provider-l1-1-0"}
+System,LdrGetDllHandle,{"module_name": "advapi32"}
+System,LdrGetProcedureAddress,{"module_name": "EventSetInformation"}
+System,LdrGetProcedureAddress,{"module_name": "SetRuntimeInfo"}
+System,LdrGetProcedureAddress,{"module_name": "_CorExeMain"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\.NETFramework"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\.NETFramework"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework"}
+System,LdrGetProcedureAddress,{"module_name": "CreateConfigStream"}
+System,LdrGetProcedureAddress,{"module_name": "CreateConfigStream_RetAddr"}
+System,LdrGetProcedureAddress,{"module_name": "CreateConfigStream"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".exe.config"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".config"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+System,LdrGetDllHandle,{"module_name": "advapi32"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,LdrGetDllHandle,{"module_name": "advapi32"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework\\NGen\\Policy\\v4.0"}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+System,LdrGetDllHandle,{"module_name": "kernel32"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,LdrGetDllHandle,{"module_name": "mscoree.dll"}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrGetDllHandle,{"module_name": "api-ms-win-core-memory-l1-1-0.dll"}
+System,LdrGetDllHandle,{"module_name": "api-ms-win-core-libraryloader-l1-1-0.dll"}
+System,LdrGetDllHandle,{"module_name": "ntdll.dll"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+System,LdrGetDllHandle,{"module_name": "KERNEL32.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNEL32.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNEL32.DLL"}
+System,LdrGetDllHandle,{"module_name": "kernel32"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrGetDllHandle,{"module_name": "KERNEL32.DLL"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\.NETFramework\\Policy\\Servicing"}
+System,LdrGetDllHandle,{"module_name": "KERNEL32.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNEL32.DLL"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Rpc"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Rpc\\MaxRpcSize"}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\ComputerName\\ActiveComputerName\\ComputerName"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\Setup\\OOBEInProgress"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\Setup\\SystemSetupInProgress"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SQMClient\\Windows\\CEIPEnable"}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale\\en-US"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\ExtendedLocale\\en-US"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".nls"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ni.dll.aux"}
+File,GetFileSize,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\StrongName"}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE\\PageAllocatorUseSystemHeap"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE\\PageAllocatorSystemHeapIsPrivate"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetDllHandle,{"module_name": "rpcrt4.dll"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\OLE\\Tracing"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLEAUT"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLEAUT"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\.NETFramework"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dat"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".config"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Windows.Forms__b77a5c561934e089"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Windows.Forms__b77a5c561934e089"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".Windows.Forms.ni.dll.aux"}
+File,GetFileSize,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System__b77a5c561934e089"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System__b77a5c561934e089"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ni.dll.aux"}
+File,GetFileSize,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Configuration__b03f5f7f11d50a3a"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Configuration__b03f5f7f11d50a3a"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,NtClose,{"handle": "Not Found"}
+Registry,RegOpenKeyExW,{"hKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Xml__b77a5c561934e089"}
+Registry,RegOpenKeyExW,{"hKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Xml__b77a5c561934e089"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,NtClose,{"handle": "Not Found"}
+Process,NtProtectVirtualMemory,{"processHandle": "currentProcess", "baseAddress": "NULL", "numberOfBytes": "MAXDWORD", "newAccessProtection": "PAGE_EXECUTE_READWRITE", "oldAccessProtection": "NULL"}
+Process,NtProtectVirtualMemory,{"processHandle": "currentProcess", "baseAddress": "NULL", "numberOfBytes": "MAXDWORD", "newAccessProtection": "PAGE_EXECUTE_READWRITE", "oldAccessProtection": "NULL"}
+System,NtClose,{"handle": "Not Found"}
+Registry,RegOpenKeyExW,{"hKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Drawing__b03f5f7f11d50a3a"}
+Registry,RegOpenKeyExW,{"hKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Drawing__b03f5f7f11d50a3a"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,NtClose,{"handle": "Not Found"}
+File,NtCreateFile,{"fileHandle": "outputFileHandle", "desiredAccess": "FILE_GENERIC_READ", "objectAttributes": "C:\\Windows\\.Drawing.ni.dll.aux", "ioStatusBlock": "NULL", "fileSize": "0", "fileAttributes": "FILE_ATTRIBUTE_NORMAL", "shareAccess": "FILE_SHARE_READ", "createDisposition": "FILE_OPEN", "createOptions": "FILE_NON_DIRECTORY_FILE"}
+File,GetFileSize,{"fileHandle": "outputFileHandle", "fileSize": "NULL"}
+System,NtClose,{"handle": "outputFileHandle"}
+Process,NtProtectVirtualMemory,{"processHandle": "currentProcess", "baseAddress": "NULL", "numberOfBytes": "MAXDWORD", "newAccessProtection": "PAGE_EXECUTE_READWRITE", "oldAccessProtection": "NULL"}
+Process,NtProtectVirtualMemory,{"processHandle": "currentProcess", "baseAddress": "NULL", "numberOfBytes": "MAXDWORD", "newAccessProtection": "PAGE_EXECUTE_READWRITE", "oldAccessProtection": "NULL"}
+System,NtClose,{"handle": "Not Found"}
+Registry,RegOpenKeyExW,{"hKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Security__b03f5f7f11d50a3a"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Security__b03f5f7f11d50a3a"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.Accessibility__b03f5f7f11d50a3a"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.Accessibility__b03f5f7f11d50a3a"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Core__b77a5c561934e089"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Core__b77a5c561934e089"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Deployment__b03f5f7f11d50a3a"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Deployment__b03f5f7f11d50a3a"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Runtime.Serialization.Formatters.Soap__b03f5f7f11d50a3a"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Runtime.Serialization.Formatters.Soap__b03f5f7f11d50a3a"}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\.NETFramework\\Policy\\APTCA"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+MISC,GetSystemMetrics,{"Appearances": 1}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+System,LdrGetDllHandle,{"module_name": "comctl32.dll"}
+System,LdrGetDllHandle,{"module_name": "comctl32.dll"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrGetDllHandle,{"module_name": "KERNEL32.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "kernelbase.dll"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNELBASE.DLL"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrGetDllHandle,{"module_name": "LPK.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNEL32"}
+System,NtClose,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 2}
+MISC,GetSystemMetrics,{"Appearances": 3}
+MISC,GetSystemMetrics,{"Appearances": 4}
+MISC,GetSystemMetrics,{"Appearances": 5}
+MISC,GetSystemMetrics,{"Appearances": 6}
+MISC,GetSystemMetrics,{"Appearances": 7}
+System,NtClose,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 8}
+MISC,GetSystemMetrics,{"Appearances": 9}
+MISC,GetSystemMetrics,{"Appearances": 10}
+MISC,GetSystemMetrics,{"Appearances": 11}
+MISC,GetSystemMetrics,{"Appearances": 12}
+MISC,GetSystemMetrics,{"Appearances": 13}
+MISC,GetSystemMetrics,{"Appearances": 14}
+MISC,GetSystemMetrics,{"Appearances": 15}
+MISC,GetSystemMetrics,{"Appearances": 16}
+MISC,GetSystemMetrics,{"Appearances": 17}
+MISC,GetSystemMetrics,{"Appearances": 18}
+MISC,GetSystemMetrics,{"Appearances": 19}
+MISC,GetSystemMetrics,{"Appearances": 20}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrGetDllHandle,{"module_name": "comctl32.dll"}
+System,LdrGetDllHandle,{"module_name": "comctl32.dll"}
+System,LdrGetDllHandle,{"module_name": "LPK"}
+System,LdrGetDllHandle,{"module_name": "user32.dll"}
+System,LdrGetDllHandle,{"module_name": "kernel32"}
+System,LdrGetDllHandle,{"module_name": "kernel32"}
+System,LdrGetDllHandle,{"module_name": "kernel32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Locale\\00000409"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Language Groups\\1"}
+System,LdrGetDllHandle,{"module_name": "kernel32"}
+System,LdrGetDllHandle,{"module_name": "kernel32"}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".nlp"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrGetDllHandle,{"module_name": "comctl32.dll"}
+System,LdrGetDllHandle,{"module_name": "comctl32.dll"}
+System,LdrGetDllHandle,{"module_name": "comctl32.dll"}
+System,LdrGetDllHandle,{"module_name": "comctl32.dll"}
+System,LdrGetDllHandle,{"module_name": "comctl32.dll"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrGetDllHandle,{"module_name": "kernel32.dll"}
+System,LdrGetDllHandle,{"module_name": "user32.dll"}
+MISC,GetSystemMetrics,{"Appearances": 21}
+MISC,GetSystemMetrics,{"Appearances": 22}
+MISC,GetSystemMetrics,{"Appearances": 23}
+System,LdrGetDllHandle,{"module_name": "gdi32.dll"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\GDIPlus\\FontCachePath"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\GDIPlus\\FontCachePath"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+System,LdrGetDllHandle,{"module_name": "KERNEL32.DLL"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+System,LdrGetDllHandle,{"module_name": "KERNEL32.DLL"}
+System,LdrGetDllHandle,{"module_name": "KERNEL32.DLL"}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"SectionHandle": "Handle"}
+File,NtCreateFile,{"RootDirectory": "Handle", "FileName": "C:\\Windows\\example.ttf"}
+File,NtQueryInformationFile,{"FileHandle": "Handle"}
+File,GetFileSize,{"FileHandle": "Handle"}
+Process,NtCreateSection,{"SectionHandle": "Handle", "MaximumSize": "0", "Protection": "PAGE_READWRITE"}
+Process,NtMapViewOfSection,{"SectionHandle": "Handle", "ProcessHandle": "Handle", "BaseAddress": "NULL", "RegionSize": "0", "AllocationType": "MEM_COMMIT", "Protect": "PAGE_EXECUTE_READWRITE"}
+Process,NtUnmapViewOfSection,{"ProcessHandle": "Handle", "BaseAddress": "BaseAddress"}
+Registry,NtEnumerateValueKey,{"KeyHandle": "Handle", "Index": "0", "KeyValue": "FontNameBuffer", "BufferLength": "BufferSize"}
+File,SearchPathW,{"Path": "C:\\Windows", "FileName": "example.ttf", "Extension": ".ttf"}
+File,NtCreateFile,{"RootDirectory": "Handle", "FileName": "C:\\Windows\\example.ttf"}
+File,GetFileSize,{"FileHandle": "Handle"}
+File,NtQueryInformationFile,{"FileHandle": "Handle"}
+File,NtCreateFile,{"RootDirectory": "Handle", "FileName": "C:\\Windows\\example.ttf"}
+File,NtQueryInformationFile,{"FileHandle": "Handle"}
+File,GetFileSize,{"FileHandle": "Handle"}
+Process,NtCreateSection,{"SectionHandle": "Handle", "MaximumSize": "0", "Protection": "PAGE_READWRITE"}
+Process,NtMapViewOfSection,{"SectionHandle": "Handle", "ProcessHandle": "Handle", "BaseAddress": "NULL", "RegionSize": "0", "AllocationType": "MEM_COMMIT", "Protect": "PAGE_EXECUTE_READWRITE"}
+Process,NtUnmapViewOfSection,{"ProcessHandle": "Handle", "BaseAddress": "BaseAddress"}
+File,NtCreateFile,{"RootDirectory": "Handle", "FileName": "C:\\Windows\\example.ttf"}
+File,NtQueryInformationFile,{"FileHandle": "Handle"}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"desiredAccess": 983071}
+Process,NtMapViewOfSection,{"desiredAccess": 983070}
+Process,NtUnmapViewOfSection,{"baseAddress": null}
+File,NtQueryInformationFile,{"fileInformationClass": "FileStandardInformation"}
+File,GetFileSize,{"hFile": null}
+Process,NtCreateSection,{"desiredAccess": 983071}
+Process,NtMapViewOfSection,{"desiredAccess": 983070}
+Process,NtUnmapViewOfSection,{"baseAddress": null}
+Registry,NtEnumerateValueKey,{"handle": "HKEY_LOCAL_MACHINE\\\\SOFTWARE\\\\Microsoft\\\\Windows NT\\\\CurrentVersion\\\\Fonts"}
+File,SearchPathW,{"lpPath": "C:\\\\Windows", "lpFileName": "file.ttf"}
+File,GetFileSize,{"hFile": null}
+File,NtQueryInformationFile,{"fileInformationClass": "FileStandardInformation"}
+File,NtQueryInformationFile,{"fileInformationClass": "FileStandardInformation"}
+File,GetFileSize,{"hFile": null}
+Process,NtCreateSection,{"desiredAccess": 983071}
+Process,NtMapViewOfSection,{"desiredAccess": 983070}
+Process,NtUnmapViewOfSection,{"baseAddress": null}
+File,NtQueryInformationFile,{"fileInformationClass": "FileStandardInformation"}
+File,GetFileSize,{"hFile": null}
+Process,NtCreateSection,{"desiredAccess": 983071}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtQueryInformationFile,{"Not Found"}
+File,GetFileSize,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,GetFileSize,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtQueryInformationFile,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+File,NtQueryInformationFile,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+File,NtQueryInformationFile,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+File,NtQueryInformationFile,{"Not Found"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".TTF"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSectionEx,{"flags": 0}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\\\SOFTWARE\\\\Microsoft\\\\Windows NT\\\\CurrentVersion\\\\Fonts"}
+File,SearchPathA,{"Path": "C:\\\\Windows", "FileName": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Process,NtCreateSection,{"flags": 255}
+Process,NtMapViewOfSection,{"flags": 254}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Process,NtUnmapViewOfSection,{"flags": 0}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".TTF"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttc"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+File,SearchPathW,{"Directory": "C:\\Windows", "FileExtension": ".ttf"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\GDIPlus\\FontCachePath"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\EUDC\\1252"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+MISC,GetSystemMetrics,{"Appearances": 24}
+MISC,GetSystemMetrics,{"Appearances": 25}
+System,LdrGetDllHandle,{"module_name": "comctl32.dll"}
+MISC,GetSystemMetrics,{"Appearances": 26}
+MISC,GetSystemMetrics,{"Appearances": 27}
+MISC,GetSystemMetrics,{"Appearances": 28}
+MISC,GetSystemMetrics,{"Appearances": 29}
+System,LdrGetDllHandle,{"module_name": "comctl32.dll"}
+MISC,GetSystemMetrics,{"Appearances": 30}
+MISC,GetSystemMetrics,{"Appearances": 31}
+MISC,GetSystemMetrics,{"Appearances": 32}
+MISC,GetSystemMetrics,{"Appearances": 33}
+System,LdrGetDllHandle,{"module_name": "comctl32.dll"}
+MISC,GetSystemMetrics,{"Appearances": 34}
+MISC,GetSystemMetrics,{"Appearances": 35}
+MISC,GetSystemMetrics,{"Appearances": 36}
+MISC,GetSystemMetrics,{"Appearances": 37}
+MISC,GetSystemMetrics,{"Appearances": 38}
+MISC,GetSystemMetrics,{"Appearances": 39}
+MISC,GetSystemMetrics,{"Appearances": 40}
+MISC,GetSystemMetrics,{"Appearances": 41}
+MISC,GetSystemMetrics,{"Appearances": 42}
+MISC,GetSystemMetrics,{"Appearances": 43}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\Managed\\S-1-5-21-3740676788-1466591295-3783685072-500\\Installer\\Assemblies\\C:|Users|Administrator|AppData|Local|Temp|Explorer.exe"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Installer\\Assemblies\\C:|Users|Administrator|AppData|Local|Temp|Explorer.exe"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Installer\\Assemblies\\C:|Users|Administrator|AppData|Local|Temp|Explorer.exe"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\Managed\\S-1-5-21-3740676788-1466591295-3783685072-500\\Installer\\Assemblies\\Global"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Installer\\Assemblies\\Global"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Installer\\Assemblies\\Global"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale\\en"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\ExtendedLocale\\en"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{FAE3D380-FEA4-4623-8C75-C6B61110B681}\\Instance"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\CLSID\\{FAE3D380-FEA4-4623-8C75-C6B61110B681}\\Instance"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{FAE3D380-FEA4-4623-8C75-C6B61110B681}\\Instance\\Disabled"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\CLSID\\{FAE3D380-FEA4-4623-8C75-C6B61110B681}\\Instance\\Disabled"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+MISC,GetSystemMetrics,{"Appearances": 44}
+MISC,GetSystemMetrics,{"Appearances": 45}
+MISC,GetSystemMetrics,{"Appearances": 46}
+MISC,GetSystemMetrics,{"Appearances": 47}
+MISC,GetSystemMetrics,{"Appearances": 48}
+MISC,GetSystemMetrics,{"Appearances": 49}
+MISC,GetSystemMetrics,{"Appearances": 50}
+MISC,GetSystemMetrics,{"Appearances": 51}
+MISC,GetSystemMetrics,{"Appearances": 52}
+MISC,GetSystemMetrics,{"Appearances": 53}
+MISC,GetSystemMetrics,{"Appearances": 54}
+MISC,GetSystemMetrics,{"Appearances": 55}
+MISC,GetSystemMetrics,{"Appearances": 56}
+MISC,GetSystemMetrics,{"Appearances": 57}
+MISC,GetSystemMetrics,{"Appearances": 58}
+MISC,GetSystemMetrics,{"Appearances": 59}
+MISC,GetSystemMetrics,{"Appearances": 60}
+MISC,GetSystemMetrics,{"Appearances": 61}
+MISC,GetSystemMetrics,{"Appearances": 62}
+MISC,GetSystemMetrics,{"Appearances": 63}
+MISC,GetSystemMetrics,{"Appearances": 64}
+MISC,GetSystemMetrics,{"Appearances": 65}
+MISC,GetSystemMetrics,{"Appearances": 66}
+MISC,GetSystemMetrics,{"Appearances": 67}
+MISC,GetSystemMetrics,{"Appearances": 68}
+MISC,GetSystemMetrics,{"Appearances": 69}
+MISC,GetSystemMetrics,{"Appearances": 70}
+MISC,GetSystemMetrics,{"Appearances": 71}
+MISC,GetSystemMetrics,{"Appearances": 72}
+MISC,GetSystemMetrics,{"Appearances": 73}
+MISC,GetSystemMetrics,{"Appearances": 74}
+MISC,GetSystemMetrics,{"Appearances": 75}
+MISC,GetSystemMetrics,{"Appearances": 76}
+MISC,GetSystemMetrics,{"Appearances": 77}
+MISC,GetSystemMetrics,{"Appearances": 78}
+MISC,GetSystemMetrics,{"Appearances": 79}
+MISC,GetSystemMetrics,{"Appearances": 80}
+MISC,GetSystemMetrics,{"Appearances": 81}
+MISC,GetSystemMetrics,{"Appearances": 82}
+MISC,GetSystemMetrics,{"Appearances": 83}
+MISC,GetSystemMetrics,{"Appearances": 84}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\ListviewShadow"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\AccListViewV6"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\UseDoubleClickTimer"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Segoe UI"}
+MISC,GetSystemMetrics,{"Appearances": 100}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Segoe UI"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Segoe UI"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Microsoft Sans Serif"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Microsoft Sans Serif"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\AccListViewV6"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\UseDoubleClickTimer"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Segoe UI"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Segoe UI"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Segoe UI"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Microsoft Sans Serif"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Microsoft Sans Serif"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\AccListViewV6"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\UseDoubleClickTimer"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Segoe UI"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Segoe UI"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Segoe UI"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Microsoft Sans Serif"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Microsoft Sans Serif"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\AccListViewV6"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\UseDoubleClickTimer"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Segoe UI"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Segoe UI"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Segoe UI"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Microsoft Sans Serif"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes\\Microsoft Sans Serif"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ALLOW_REVERSE_SOLIDUS_IN_USERINFO_KB932562"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_ALLOW_REVERSE_SOLIDUS_IN_USERINFO_KB932562"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_SUBDOWNLOAD_LOCKDOWN"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_SUBDOWNLOAD_LOCKDOWN"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_SUBDOWNLOAD_LOCKDOWN\\explorer.exe"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_SUBDOWNLOAD_LOCKDOWN\\*"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Security_HKLM_only"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_IGNORE_POLICIES_ZONEMAP_IF_ESC_ENABLED_KB918915"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_IGNORE_POLICIES_ZONEMAP_IF_ESC_ENABLED_KB918915"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\ZoneMap\\Ranges\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\ZoneMap\\Ranges\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\ZoneMap\\Ranges\\"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ZONES_CHECK_ZONEMAP_POLICY_KB941001"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_ZONES_CHECK_ZONEMAP_POLICY_KB941001"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_SHOW_FAILED_CONNECT_CONTENT_KB942615"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_SHOW_FAILED_CONNECT_CONTENT_KB942615"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_FILEPROTOCOL_NOFINDFIRST_KB947853"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_FILEPROTOCOL_NOFINDFIRST_KB947853"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\.tmp"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\.tmp"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_MIME_SNIFFING"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_MIME_SNIFFING"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_MIME_SNIFFING\\explorer.exe"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Security"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Internet Explorer"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Security"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\Security"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\Setup"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0\\Flags"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1\\Flags"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2\\Flags"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3\\Flags"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\Flags"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0\\Flags"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1\\Flags"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2\\Flags"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3\\Flags"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\Flags"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_LOCALMACHINE_LOCKDOWN\\explorer.exe"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_LOCALMACHINE_LOCKDOWN\\explorer.exe"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_LOCALMACHINE_LOCKDOWN\\*"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_LOCALMACHINE_LOCKDOWN\\*"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_LOCALMACHINE_LOCKDOWN\\explorer.exe"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2\\Flags"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+sync,NtDelayExecution,{"Appearances": 1}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+sync,NtDelayExecution,{"Appearances": 2}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Crypto,CryptCreateHash,{"algorithm": "0x00008004"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008004"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008004"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008004"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008004"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008004"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008004"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008004"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008004"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008004"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008004"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008004"}
+Crypto,CryptHashData,Not Found
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,ReadProcessMemory,{"flags": 0}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtProtectVirtualMemory,{"flags": 1}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+sync,NtDelayExecution,{"Appearances": 3}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 4}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 5}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 6}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 7}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 8}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 9}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 10}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 11}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 12}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 13}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 14}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 15}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 16}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 17}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 18}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 19}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 20}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 21}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 22}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 23}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 24}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 25}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 26}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 27}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 28}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 29}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 30}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 31}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 32}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 33}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 34}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 35}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 36}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 37}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 38}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 39}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 40}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 41}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 42}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 43}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 44}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 45}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 46}
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptCreateHash,{"algorithm": "0x00008003"}
+sync,NtDelayExecution,{"Appearances": 47}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 48}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 49}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 50}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 51}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 52}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 53}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 54}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 55}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 56}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 57}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 58}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 59}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 60}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 61}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 62}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 63}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 64}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 65}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 66}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 67}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 68}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 69}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 70}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 71}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 72}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 73}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 74}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 75}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 76}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 77}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 78}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 79}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 80}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 81}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 82}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 83}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 84}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 85}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 86}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 87}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 88}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 89}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 90}
+Crypto,CryptHashData,Not Found
+sync,NtDelayExecution,{"Appearances": 91}
+sync,NtDelayExecution,{"Appearances": 92}
+sync,NtDelayExecution,{"Appearances": 93}
+sync,NtDelayExecution,{"Appearances": 94}
+sync,NtDelayExecution,{"Appearances": 95}
+sync,NtDelayExecution,{"Appearances": 96}
+sync,NtDelayExecution,{"Appearances": 97}
+sync,NtDelayExecution,{"Appearances": 98}
+sync,NtDelayExecution,{"Appearances": 99}
+sync,NtDelayExecution,{"Appearances": 100}

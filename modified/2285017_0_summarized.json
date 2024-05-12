@@ -1,0 +1,1820 @@
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".nls"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+UI,DrawTextExW,{"Strings": 255}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\System"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 255}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{3697C5FA-60DD-4B56-92D4-74A569205C16}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{3697C5FA-60DD-4B56-92D4-74A569205C16}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{3697C5FA-60DD-4B56-92D4-74A569205C16}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{531FDEBF-9B4C-4A43-A2AA-960E8FCDC732}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{70FAF614-E0B1-11D3-8F5C-00C04F9CF4AC}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{78CB5B0E-26ED-4FCC-854C-77E8F3D1AA80}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{78CB5B0E-26ED-4FCC-854C-77E8F3D1AA80}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{78CB5B0E-26ED-4FCC-854C-77E8F3D1AA80}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{78CB5B0E-26ED-4FCC-854C-77E8F3D1AA80}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{78CB5B0E-26ED-4FCC-854C-77E8F3D1AA80}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{78CB5B0E-26ED-4FCC-854C-77E8F3D1AA80}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{78CB5B0E-26ED-4FCC-854C-77E8F3D1AA80}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{78CB5B0E-26ED-4FCC-854C-77E8F3D1AA80}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{81D4E9C9-1D3B-41BC-9E6C-4B40BF79E35E}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{8613E14C-D0C0-4161-AC0F-1DD2563286BC}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{A028AE76-01B1-46C2-99C4-ACD9858AE02F}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{AE6BE008-07FB-400D-8BEB-337A64F7051F}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{C1EE01F2-B3B6-4A6A-9DDD-E988C088EC82}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{DCBD6FA8-032F-11D3-B5B1-00C04FC324A1}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{E429B25A-E5D3-4D1F-9BE3-0C608477E3A1}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{F25E9F57-2FC8-4EB3-A41A-CCE5F08541E6}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{F89E9E58-BD2F-4008-9AC2-0F816C09F4EE}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP\\{FA445657-9379-11D6-B41A-00065B83EE53}\\Category\\Category\\{534C48C1-0607-4098-A521-4FC899C73E90}"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\TIP"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Keyboard Layout\\Toggle"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Keyboard Layout\\Toggle\\Language Hotkey"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Keyboard Layout\\Toggle\\Hotkey"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Keyboard Layout\\Toggle\\Layout Hotkey"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\CTF\\DirectSwitchHotkeys"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\CTF\\DirectSwitchHotkeys"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\CTF\\EnableAnchorContext"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 255}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000401"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000402"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000404"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000405"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000406"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000407"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000408"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000409"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000040a"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000040b"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000040c"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000040d"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000040e"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000040f"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000410"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000411"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000412"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000413"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000414"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000415"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000416"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000418"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000419"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000041a"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000041b"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000041c"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000041d"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000041e"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000041f"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000420"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000422"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000423"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000424"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000425"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000426"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000427"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000428"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000429"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000042a"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000042b"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000042c"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000042e"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000042f"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000432"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000437"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000438"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000439"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000043a"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000043b"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000043f"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000440"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000442"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000444"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000445"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000446"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000447"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000448"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000449"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000044a"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000044b"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000044c"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000044d"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000044e"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000450"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000451"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000452"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000453"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000454"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000045a"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000045b"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000461"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegEnumKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000463"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000465"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000468"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010401\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010402\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010405\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010407\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010408\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010409\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001040a\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001040e\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010410\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010415\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010416\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010418\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010419\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001041b\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001041e\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001041f\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010426\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010427\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001042b\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001042e\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001042f\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010437\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010439\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001043a\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001043b\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010445\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001045a\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001045b\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001045d\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010465\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00010480\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001080c\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\0001083b\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00011009\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00011809\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00020401\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00020402\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00020405\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00020408\\layout id"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts\\00020409\\layout id"}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 255}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 1}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+UI,DrawTextExW,{"Strings": 1}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".txt"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".txt"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".txt"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".txt"}
+UI,DrawTextExW,{"Strings": 1}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".txt"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".txt"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".txt"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 1}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".BAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".BAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".BAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".BAT"}
+UI,DrawTextExW,{"Strings": 1}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".BAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".BAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".BAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+UI,DrawTextExW,{"Strings": 1}
+UI,DrawTextExW,{"Strings": 1}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".EXE"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".EXE"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".EXE"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".EXE"}
+UI,DrawTextExW,{"Strings": 255}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".EXE"}
+UI,DrawTextExW,{"Strings": 1}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".EXE"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".EXE"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".EXE"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 1}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+UI,DrawTextExW,{"Strings": 1}
+File,SetFileTime,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+UI,DrawTextExW,{"Strings": 1}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+UI,DrawTextExW,{"Strings": 1}
+UI,DrawTextExW,{"Strings": 1}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+UI,DrawTextExW,{"Strings": 1}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+UI,DrawTextExW,{"Strings": 1}
+UI,DrawTextExW,{"Strings": 1}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+UI,DrawTextExW,{"Strings": 1}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 1}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+UI,DrawTextExW,{"Strings": 1}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+UI,DrawTextExW,{"Strings": 1}
+UI,DrawTextExW,{"Strings": 1}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+UI,DrawTextExW,{"Strings": 1}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+UI,DrawTextExW,{"Strings": 255}
+UI,DrawTextExW,{"Strings": 1}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,NtClose,{"module_name": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,SetFileTime,{"Not Found"}
+System,SetErrorMode,{"module_name": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,SetFileTime,{"Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,SetFileTime,{"Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,SetFileTime,{"Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,SetFileTime,{"Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,SetFileTime,{"Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".JWM"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtQueryAttributesFile,{"FileName": "C:\\\\jww\\\\file.DAT"}
+File,NtCreateFile,{"FileName": "C:\\\\jww\\\\file.DAT"}
+File,NtWriteFile,{"FileName": "C:\\\\jww\\\\file.DAT"}
+File,SetFileTime,{"FileName": "C:\\\\jww\\\\file.DAT"}
+File,NtQueryAttributesFile,{"FileName": "C:\\\\jww\\\\file.DAT"}
+File,FindFirstFileExW,{"FileName": "C:\\\\jww\\\\"}
+File,FindFirstFileExW,{"FileName": "C:\\\\jww\\\\file.DAT"}
+File,NtOpenFile,{"FileName": "C:\\\\jww\\\\file.DAT"}
+File,NtSetInformationFile,{"FileName": "C:\\\\jww\\\\file.DAT"}
+File,CreateDirectoryW,{"NewDirectory": "C:\\\\Users\\\\"}
+File,CreateDirectoryW,{"NewDirectory": "C:\\\\jww\\\\"}
+File,NtQueryAttributesFile,{"FileName": "C:\\\\jww\\\\file.JWL"}
+File,NtQueryAttributesFile,{"FileName": "C:\\\\jww\\\\file.JWL"}
+File,NtCreateFile,{"FileName": "C:\\\\jww\\\\file.JWL"}
+File,NtWriteFile,{"FileName": "C:\\\\jww\\\\file.JWL"}
+File,SetFileTime,{"FileName": "C:\\\\jww\\\\file.JWL"}
+File,NtQueryAttributesFile,{"FileName": "C:\\\\jww\\\\file.JWL"}
+File,FindFirstFileExW,{"FileName": "C:\\\\jww\\\\"}
+File,FindFirstFileExW,{"FileName": "C:\\\\jww\\\\file.JWL"}
+File,NtOpenFile,{"FileName": "C:\\\\jww\\\\file.JWL"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtQueryAttributesFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".exe"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jwf"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".jwf"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".jwf"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jwf"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jwf"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".jwf"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".jwf"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jwf"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".dll"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".dll"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".dll"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".dll"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".dll"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".dll"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".dll"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".dll"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".dll"}
+File,NtWriteFile,{"Directory": "C:\\jww", "FileExtension": ".dll"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".dll"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtSetInformationFile,{"Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,CreateDirectoryW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,SetFileTime,{"Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jww"}
+File,NtSetInformationFile,{"Not Found"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders\\StorageDelegateSuppressionPolicy"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders\\StorageDelegate"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders\\SuppressionPolicy"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders\\(Default)"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders\\{35786D3C-B075-49b9-88DD-029876E11C01}\\SuppressionPolicy"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtOpenFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".sdb"}
+File,NtOpenFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,FindFirstFileExW,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll.mui"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll.mui"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtOpenFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".sdb"}
+File,NtOpenFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll.mui"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll.mui"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Registry,RegEnumKeyW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\MyComputer\\NameSpace\\DelegateFolders"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".JWK"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".JWK"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".JWK"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".JWK"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,NtCreateFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".JWK"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": "Not Found"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".DAT"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtOpenFile,{"Directory": "C:\\jww", "FileExtension": ".jws"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+File,SetFileTime,{"Not Found"}
+File,NtSetInformationFile,{"Not Found"}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}
+Process,NtOpenProcess,{"flags": 1}

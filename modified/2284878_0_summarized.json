@@ -1,0 +1,1278 @@
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "SaferIdentifyLevel"}
+System,LdrGetProcedureAddress,{"module_name": "SaferComputeTokenFromLevel"}
+System,LdrGetProcedureAddress,{"module_name": "SaferCloseLevel"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\LevelObjects"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\safer\\codeidentifiers\\Levels"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes"}
+Registry,RegOpenKeyEx,{"hKey": "HKEY_LOCAL_MACHINE\\\\Software\\\\Policies\\\\Microsoft\\\\Windows\\\\Safer\\\\CodeIdentifiers\\\\131072\\\\UrlZones","samDesired": "KEY_READ"}
+Registry,RegOpenKeyEx,{"hKey": "HKEY_LOCAL_MACHINE\\\\Software\\\\Policies\\\\Microsoft\\\\Windows\\\\Safer\\\\CodeIdentifiers\\\\262144\\\\Paths","samDesired": "KEY_READ"}
+Registry,RegOpenKeyEx,{"hKey": "HKEY_LOCAL_MACHINE\\\\Software\\\\Policies\\\\Microsoft\\\\Windows\\\\Safer\\\\CodeIdentifiers\\\\262144\\\\Hashes","samDesired": "KEY_READ"}
+Registry,RegOpenKeyEx,{"hKey": "HKEY_LOCAL_MACHINE\\\\Software\\\\Policies\\\\Microsoft\\\\Windows\\\\Safer\\\\CodeIdentifiers\\\\262144\\\\UrlZones","samDesired": "KEY_READ"}
+System,NtClose,{"module_handle": "Not Found"}
+Registry,RegOpenKeyEx,{"hKey": "HKEY_CURRENT_USER\\\\Software\\\\Policies\\\\Microsoft\\\\Windows\\\\Safer\\\\CodeIdentifiers\\\\0\\\\Paths","samDesired": "KEY_READ"}
+System,NtClose,{"module_handle": "Not Found"}
+Registry,RegOpenKeyEx,{"hKey": "HKEY_CURRENT_USER\\\\Software\\\\Policies\\\\Microsoft\\\\Windows\\\\Safer\\\\CodeIdentifiers\\\\0\\\\Hashes","samDesired": "KEY_READ"}
+System,NtClose,{"module_handle": "Not Found"}
+Registry,RegOpenKeyEx,{"hKey": "HKEY_CURRENT_USER\\\\Software\\\\Policies\\\\Microsoft\\\\Windows\\\\Safer\\\\CodeIdentifiers\\\\0\\\\UrlZones","samDesired": "KEY_READ"}
+System,NtClose,{"module_handle": "Not Found"}
+Registry,RegOpenKeyEx,{"hKey": "HKEY_CURRENT_USER\\\\Software\\\\Policies\\\\Microsoft\\\\Windows\\\\Safer\\\\CodeIdentifiers\\\\4096\\\\Paths","samDesired": "KEY_READ"}
+System,NtClose,{"module_handle": "Not Found"}
+Registry,RegOpenKeyEx,{"hKey": "HKEY_CURRENT_USER\\\\Software\\\\Policies\\\\Microsoft\\\\Windows\\\\Safer\\\\CodeIdentifiers\\\\4096\\\\Hashes","samDesired": "KEY_READ"}
+System,NtClose,{"module_handle": "Not Found"}
+Registry,RegOpenKeyEx,{"hKey": "HKEY_CURRENT_USER\\\\Software\\\\Policies\\\\Microsoft\\\\Windows\\\\Safer\\\\CodeIdentifiers\\\\65536\\\\Paths","samDesired": "KEY_READ"}
+Registry,RegOpenKeyEx,{"hKey": "HKEY_CURRENT_USER\\\\Software\\\\Policies\\\\Microsoft\\\\Windows\\\\Safer\\\\CodeIdentifiers\\\\65536\\\\Hashes","samDesired": "KEY_READ"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\safer\\codeidentifiers\\DefaultLevel"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\safer\\codeidentifiers\\SaferFlags"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Srp\\GP\\RuleCount"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\safer\\codeidentifiers\\PolicyScope"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\crypt32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\crypt32\\DebugHeapFlags"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\msasn1"}
+System,LdrGetProcedureAddress,{"module_name": "WinVerifyTrust"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Providers\\Trust\\Certificate\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\Certificate\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$DLL"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\Certificate\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$Function"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Providers\\Trust\\FinalPolicy\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\FinalPolicy\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$DLL"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\FinalPolicy\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$Function"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Providers\\Trust\\Initialization\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\Initialization\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$DLL"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\Initialization\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$Function"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Providers\\Trust\\Message\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\Message\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$DLL"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\Message\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$Function"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Providers\\Trust\\Signature\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\Signature\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$DLL"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\Signature\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$Function"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Providers\\Trust\\CertCheck\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\CertCheck\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$DLL"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\CertCheck\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$Function"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Providers\\Trust\\DiagnosticPolicy\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Providers\\Trust\\Cleanup\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\Cleanup\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$DLL"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Providers\\Trust\\Cleanup\\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}\\$Function"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "WintrustCertificateTrust"}
+System,LdrGetProcedureAddress,{"module_name": "SoftpubAuthenticode"}
+System,LdrGetProcedureAddress,{"module_name": "SoftpubInitialize"}
+System,LdrGetProcedureAddress,{"module_name": "SoftpubLoadMessage"}
+System,LdrGetProcedureAddress,{"module_name": "SoftpubLoadSignature"}
+System,LdrGetProcedureAddress,{"module_name": "SoftpubCheckCert"}
+System,LdrGetProcedureAddress,{"module_name": "SoftpubCleanup"}
+System,LdrGetProcedureAddress,{"module_name": "CryptAcquireContextA"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider\\Type"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider\\Image Path"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider\\Image Path"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider\\Image Path"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider\\Image Path"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\SESSION MANAGER\\SafeProcessSearchMode"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy\\Enabled"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration"}
+System,LdrGetProcedureAddress,{"module_name": "CPAcquireContext"}
+System,LdrGetProcedureAddress,{"module_name": "CPReleaseContext"}
+System,LdrGetProcedureAddress,{"module_name": "CPGenKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPDeriveKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPDestroyKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPSetKeyParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPGetKeyParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPExportKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPImportKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPEncrypt"}
+System,LdrGetProcedureAddress,{"module_name": "CPDecrypt"}
+System,LdrGetProcedureAddress,{"module_name": "CPCreateHash"}
+System,LdrGetProcedureAddress,{"module_name": "CPHashData"}
+System,LdrGetProcedureAddress,{"module_name": "CPHashSessionKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPDestroyHash"}
+System,LdrGetProcedureAddress,{"module_name": "CPSignHash"}
+System,LdrGetProcedureAddress,{"module_name": "CPVerifySignature"}
+System,LdrGetProcedureAddress,{"module_name": "CPGenRandom"}
+System,LdrGetProcedureAddress,{"module_name": "CPGetUserKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPSetProvParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPGetProvParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPSetHashParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPGetHashParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPDuplicateKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPDuplicateHash"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Cryptography"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Cryptography\\PrivKeyCacheMaxItems"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Cryptography\\PrivKeyCachePurgeIntervalSeconds"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Cryptography\\PrivateKeyLifetimeSeconds"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Offload"}
+System,LdrGetProcedureAddress,{"module_name": "OpenThreadToken"}
+System,LdrGetProcedureAddress,{"module_name": "OpenProcessToken"}
+System,LdrGetProcedureAddress,{"module_name": "GetTokenInformation"}
+System,LdrGetProcedureAddress,{"module_name": "AllocateAndInitializeSid"}
+System,LdrGetProcedureAddress,{"module_name": "EqualSid"}
+System,LdrGetProcedureAddress,{"module_name": "FreeSid"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "SystemFunction036"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\DESHashSessionKeyBackward"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "\\REGISTRY\\USER"}
+Registry,NtQueryKey,{"RegistryKey": "\\REGISTRY\\USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\WinTrust\\Trust Providers\\Software Publishing"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\WinTrust\\Trust Providers\\Software Publishing\\State"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "\\REGISTRY\\USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Security"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Security\\Safety Warning Level"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\SystemCertificates\\TrustedPublisher\\Safer"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "\\REGISTRY\\USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\TrustedPublisher\\Safer"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\TrustedPublisher\\Safer"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\crypt32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\crypt32\\DiagLevel"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\crypt32\\DiagMatchAnyMask"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\crypt32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Wintrust\\Config"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\OID"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\OID"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\OID"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllIsMyFileType2"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptSIPDllIsMyFileType2"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "DllCanUnloadNow"}
+System,LdrGetProcedureAddress,{"module_name": "MsiSIPIsMyTypeOfFile"}
+System,LdrGetProcedureAddress,{"module_name": "CoInitialize"}
+System,LdrGetProcedureAddress,{"module_name": "StgOpenStorage"}
+System,LdrGetProcedureAddress,{"module_name": "CryptAcquireContextW"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Strong Cryptographic Provider"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Strong Cryptographic Provider\\Type"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Strong Cryptographic Provider\\Image Path"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Strong Cryptographic Provider\\Image Path"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Strong Cryptographic Provider\\Image Path"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Strong Cryptographic Provider\\Image Path"}
+System,LdrGetProcedureAddress,{"module_name": "CPAcquireContext"}
+System,LdrGetProcedureAddress,{"module_name": "CPReleaseContext"}
+System,LdrGetProcedureAddress,{"module_name": "CPGenKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPDeriveKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPDestroyKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPSetKeyParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPGetKeyParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPExportKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPImportKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPEncrypt"}
+System,LdrGetProcedureAddress,{"module_name": "CPDecrypt"}
+System,LdrGetProcedureAddress,{"module_name": "CPCreateHash"}
+System,LdrGetProcedureAddress,{"module_name": "CPHashData"}
+System,LdrGetProcedureAddress,{"module_name": "CPHashSessionKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPDestroyHash"}
+System,LdrGetProcedureAddress,{"module_name": "CPSignHash"}
+System,LdrGetProcedureAddress,{"module_name": "CPVerifySignature"}
+System,LdrGetProcedureAddress,{"module_name": "CPGenRandom"}
+System,LdrGetProcedureAddress,{"module_name": "CPGetUserKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPSetProvParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPGetProvParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPSetHashParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPGetHashParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPDuplicateKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPDuplicateHash"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Offload"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "CryptGenRandom"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "CoUninitialize"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\OID"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{AB13F5B1-F718-11D0-82AA-00AA00C065E1}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{AB13F5B1-F718-11D0-82AA-00AA00C065E1}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{AB13F5B1-F718-11D0-82AA-00AA00C065E1}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{AB13F5B1-F718-11D0-82AA-00AA00C065E1}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{C689AAB8-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{C689AAB8-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{C689AAB8-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{C689AAB8-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{C689AAB9-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{C689AAB9-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{C689AAB9-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{C689AAB9-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{C689AABA-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{C689AABA-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{C689AABA-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{C689AABA-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{DE351A42-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{DE351A42-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{DE351A42-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{DE351A42-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{DE351A43-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{DE351A43-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{DE351A43-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{DE351A43-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptSIPDllPutSignedDataMsg"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "MsiSIPPutSignedDataMsg"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\OID"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{AB13F5B1-F718-11D0-82AA-00AA00C065E1}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{AB13F5B1-F718-11D0-82AA-00AA00C065E1}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{AB13F5B1-F718-11D0-82AA-00AA00C065E1}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{C689AAB8-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{C689AAB8-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{C689AAB8-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{C689AAB9-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{C689AAB9-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{C689AAB9-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{C689AABA-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{C689AABA-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{C689AABA-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{DE351A42-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{DE351A42-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{DE351A42-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{DE351A43-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{DE351A43-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg\\{DE351A43-8E59-11D0-8C47-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllGetSignedDataMsg"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptSIPDllGetSignedDataMsg"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "MsiSIPGetSignedDataMsg"}
+System,LdrGetProcedureAddress,{"module_name": "CoInitialize"}
+System,LdrGetProcedureAddress,{"module_name": "IsEqualGUID"}
+System,LdrGetProcedureAddress,{"module_name": "StgOpenStorage"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "CoUninitialize"}
+System,LdrGetProcedureAddress,{"module_name": "CoInitialize"}
+System,LdrGetProcedureAddress,{"module_name": "IsEqualGUID"}
+System,LdrGetProcedureAddress,{"module_name": "StgOpenStorage"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "CoUninitialize"}
+System,LdrGetProcedureAddress,{"module_name": "CryptAcquireContextA"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider\\Type"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider\\Image Path"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider\\Image Path"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider\\Image Path"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider\\Image Path"}
+System,LdrGetProcedureAddress,{"module_name": "CPAcquireContext"}
+System,LdrGetProcedureAddress,{"module_name": "CPReleaseContext"}
+System,LdrGetProcedureAddress,{"module_name": "CPGenKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPDeriveKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPDestroyKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPSetKeyParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPGetKeyParam"}
+System,LdrGetProcedureAddress,{"module_name": "CPExportKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPImportKey"}
+System,LdrGetProcedureAddress,{"module_name": "CPEncrypt"}
+System,LdrGetProcedureAddress,{"module_name": "CPDecrypt"}
+System,LdrGetProcedureAddress,{"module_name": "CPCreateHash"}
+System,LdrGetProcedureAddress,{"module_name": "CPHashData"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Offload"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\DESHashSessionKeyBackward"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\OID"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.44.3.4!7"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.44.3.4!7"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.44.3.4!7"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.44.3.4!7\\Name"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\MUI\\StringCacheSettings"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\StringCacheSettings\\StringCacheGeneration"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\MuiCache\\3c\\52C64B7E"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Local Settings\\MuiCache\\3C\\52C64B7E\\@%SystemRoot%\\system32\\p2pcollab.dll,-8042"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.44.3.4!7\\Name"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\MUI\\StringCacheSettings"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\StringCacheSettings\\StringCacheGeneration"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\MuiCache\\3c\\52C64B7E"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Local Settings\\MuiCache\\3C\\52C64B7E\\@%SystemRoot%\\system32\\p2pcollab.dll,-8042"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.47.1.1!7"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.47.1.1!7"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.47.1.1!7"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.47.1.1!7\\Name"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\MUI\\StringCacheSettings"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\StringCacheSettings\\StringCacheGeneration"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\MuiCache\\3c\\52C64B7E"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Local Settings\\MuiCache\\3C\\52C64B7E\\@%SystemRoot%\\system32\\qagentrt.dll,-10"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.47.1.1!7\\Name"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\MUI\\StringCacheSettings"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\StringCacheSettings\\StringCacheGeneration"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\MuiCache\\3c\\52C64B7E"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\MuiCache\\3c\\52C64B7E"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Local Settings\\MuiCache\\3C\\52C64B7E\\@%SystemRoot%\\system32\\dnsapi.dll,-103"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.67.1.1!7"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.67.1.1!7\\Name"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\MUI\\StringCacheSettings"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\StringCacheSettings\\StringCacheGeneration"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\MuiCache\\3c\\52C64B7E"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Local Settings\\MuiCache\\3C\\52C64B7E\\@%SystemRoot%\\System32\\fveui.dll,-843"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\MuiCache\\3c\\52C64B7E"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Local Settings\\MuiCache\\3C\\52C64B7E\\@%SystemRoot%\\System32\\fveui.dll,-844"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.67.1.2!7\\Name"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\MUI\\StringCacheSettings"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\StringCacheSettings\\StringCacheGeneration"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\MuiCache\\3c\\52C64B7E"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Local Settings\\MuiCache\\3C\\52C64B7E\\@%SystemRoot%\\System32\\fveui.dll,-844"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.80.1!7"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.80.1!7\\Name"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\MUI\\StringCacheSettings"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\StringCacheSettings\\StringCacheGeneration"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\MuiCache\\3c\\52C64B7E"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Local Settings\\MuiCache\\3C\\52C64B7E\\@%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\powershell.exe,-124"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.80.1!7\\Name"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\MUI\\StringCacheSettings"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\StringCacheSettings\\StringCacheGeneration"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\MuiCache\\3c\\52C64B7E"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Local Settings\\MuiCache\\3C\\52C64B7E\\@%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\powershell.exe,-124"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 1}
+UI,LoadStringW,{"Strings": 255}
+UI,LoadStringW,{"Strings": 255}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy\\Enabled"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy\\Enabled"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy\\Enabled"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy\\Enabled"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration"}
+Crypto,CryptDecodeObjectEx,Not Found
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{000C10F1-0000-0000-C000-000000000046}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{06C9E010-38CE-11D4-A2A3-00104BD35090}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{1A610570-38CE-11D4-A2A3-00104BD35090}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{603BCC1F-4B59-4E08-B724-D2C6297EF351}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{AB13F5B1-F718-11D0-82AA-00AA00C065E1}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{AB13F5B1-F718-11D0-82AA-00AA00C065E1}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{BA08A66F-113B-4D58-9329-A1B37AF30F0E}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{C689AAB8-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,NtEnumerateValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData\\{C689AAB8-8E78-11D0-8C47-00C04FC295EE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllVerifyIndirectData"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptHashData,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObjectEx"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObjectEx"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObjectEx"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObjectEx"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObjectEx"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObjectEx"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObjectEx"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObjectEx"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\My"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\CA"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\CA"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\CA\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\CA\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\CA\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\CA"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\CA\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\CA\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\CA\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\CA"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\CA"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\CA\\Certificates"}
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\CA\\CRLs"}
+Crypto,CryptDecodeObjectEx,Not Found
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\CA\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\SystemCertificates\\CA"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\CA\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\CA\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\CA\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\EnterpriseCertificates\\CA"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\EnterpriseCertificates\\CA"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\CA\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\CA\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\CA\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\Disallowed"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\Disallowed"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\Disallowed\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\Disallowed\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\Disallowed\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\Disallowed"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\Disallowed\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\Disallowed\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\Disallowed\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\Disallowed"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\Disallowed"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\Disallowed\\Certificates"}
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\Disallowed\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\Disallowed\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\SystemCertificates\\Disallowed"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\Disallowed\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\Disallowed\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\Disallowed\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\EnterpriseCertificates\\Disallowed"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\EnterpriseCertificates\\Disallowed"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Disallowed\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Disallowed\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Disallowed\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\Root"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\Root"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\Root\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\Root\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\Root\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\Root"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\Root"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\ROOT\\Certificates"}
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\ROOT\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\ROOT\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\AuthRoot"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\AuthRoot\\Certificates"}
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\AuthRoot\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\AuthRoot\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\SystemCertificates\\Root"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\Root\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\Root\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\Root\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\EnterpriseCertificates\\Root"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\EnterpriseCertificates\\Root"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Root\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Root\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Root\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\SmartCardRoot"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\SmartCardRoot\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\SmartCardRoot\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\SmartCardRoot\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\SmartCardRoot"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\SmartCardRoot\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\SmartCardRoot\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\SmartCardRoot\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\TrustedPeople"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\TrustedPeople"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\TrustedPeople\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\TrustedPeople\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\SystemCertificates\\TrustedPeople\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\TrustedPeople"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\TrustedPeople\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\TrustedPeople\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\SystemCertificates\\TrustedPeople\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\TrustedPeople"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\TrustedPeople"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\TrustedPeople\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\TrustedPeople\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SystemCertificates\\TrustedPeople\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\SystemCertificates\\TrustedPeople"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\TrustedPeople\\Certificates"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\TrustedPeople\\CRLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\TrustedPeople\\CTLs"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\EnterpriseCertificates\\TrustedPeople"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\EnterpriseCertificates\\TrustedPeople"}
+Registry,NtCreateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\TrustedPeople\\Certificates"}
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\SQMClient\\Windows"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SQMClient\\Windows"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+Crypto,CryptDecodeObjectEx,Not Found
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,DeviceIoControl,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+File,NtDeviceIoControlFile,{"Not Found"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\Windows Error Reporting\\Escalation"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SQMClient\\Windows\\WMR"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SQMClient\\Windows\\DisabledProcesses\\"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SQMClient\\Windows\\DisabledSessions\\"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SQMClient\\Windows\\DisabledSessions\\"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SQMClient\\Windows\\DisabledSessions\\"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SQMClient\\Windows\\DisabledSessions\\"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers"}
+Registry,NtOpenKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option"}

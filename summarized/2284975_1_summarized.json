@@ -1,0 +1,300 @@
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".doc"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".doc"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".doc"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".doc"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".doc"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".doc"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".Word"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\", "FileExtension": "Not Found"}
+File,NtWriteFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".SCT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".SCT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".SCT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".SCT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".SCT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".SCT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".SCT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".SCT"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ScT"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".dat"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "\\??", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\DEVICE", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\DEVICE", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "\\DEVICE", "FileExtension": "Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".exe"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}

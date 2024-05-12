@@ -1,0 +1,180 @@
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".doc"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".doc"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".TMP"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".doc"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".doc"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".doc"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".BUD"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".gpd"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".gpd"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".gpd"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".gpd"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".Word"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".rcd"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".rcd"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".ini"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".tmp"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".dat"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\Program Files", "FileExtension": ".dotx"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Program Files", "FileExtension": ".dotx"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".dotx"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".dotx"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+File,NtCreateFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Users", "FileExtension": ".ini"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}

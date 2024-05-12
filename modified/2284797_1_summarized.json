@@ -1,0 +1,730 @@
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrGetProcedureAddress,{"module_name": "FlsAlloc"}
+System,LdrGetProcedureAddress,{"module_name": "FlsGetValue"}
+System,LdrGetProcedureAddress,{"module_name": "FlsSetValue"}
+System,LdrGetProcedureAddress,{"module_name": "FlsFree"}
+System,LdrGetProcedureAddress,{"module_name": "EncodePointer"}
+System,LdrGetProcedureAddress,{"module_name": "EncodePointer"}
+System,LdrGetProcedureAddress,{"module_name": "EncodePointer"}
+System,LdrGetProcedureAddress,{"module_name": "EncodePointer"}
+System,LdrGetProcedureAddress,{"module_name": "EncodePointer"}
+System,LdrGetProcedureAddress,{"module_name": "EncodePointer"}
+System,LdrGetProcedureAddress,{"module_name": "EncodePointer"}
+System,LdrGetProcedureAddress,{"module_name": "DecodePointer"}
+System,LdrGetProcedureAddress,{"module_name": "DecodePointer"}
+System,LdrGetProcedureAddress,{"module_name": "EncodePointer"}
+System,LdrGetProcedureAddress,{"module_name": "DecodePointer"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+dwFlags
+: TH32CS_SNAPTHREAD, 
+th32ProcessID
+: 0}
+System,Thread32First,{
+hSnapshot
+: <handle returned by CreateToolhelp32Snapshot>}
+```
+
+By leveraging the Thread32First function after creating a thread snapshot with CreateToolhelp32Snapshot, we can efficiently retrieve information about threads on the system.
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+Process,Thread32Next,{"flags": 0}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+System,LdrGetProcedureAddress,{"module_name": "InitializeCriticalSectionEx"}
+System,LdrGetProcedureAddress,{"module_name": "FlsAlloc"}
+System,LdrGetProcedureAddress,{"module_name": "FlsSetValue"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeCriticalSectionEx"}
+System,LdrGetProcedureAddress,{"module_name": "FlsAlloc"}
+System,LdrGetProcedureAddress,{"module_name": "FlsGetValue"}
+System,LdrGetProcedureAddress,{"module_name": "FlsSetValue"}
+System,LdrGetProcedureAddress,{"module_name": "LCMapStringEx"}
+System,LdrGetProcedureAddress,{"module_name": "AreFileApisANSI"}
+System,LdrGetProcedureAddress,{"module_name": "FlsAlloc"}
+System,LdrGetProcedureAddress,{"module_name": "FlsFree"}
+System,LdrGetProcedureAddress,{"module_name": "FlsGetValue"}
+System,LdrGetProcedureAddress,{"module_name": "FlsSetValue"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeCriticalSectionEx"}
+System,LdrGetProcedureAddress,{"module_name": "InitOnceExecuteOnce"}
+System,LdrGetProcedureAddress,{"module_name": "CreateEventExW"}
+System,LdrGetProcedureAddress,{"module_name": "CreateSemaphoreW"}
+System,LdrGetProcedureAddress,{"module_name": "CreateSemaphoreExW"}
+System,LdrGetProcedureAddress,{"module_name": "CreateThreadpoolTimer"}
+System,LdrGetProcedureAddress,{"module_name": "SetThreadpoolTimer"}
+System,LdrGetProcedureAddress,{"module_name": "WaitForThreadpoolTimerCallbacks"}
+System,LdrGetProcedureAddress,{"module_name": "CloseThreadpoolTimer"}
+System,LdrGetProcedureAddress,{"module_name": "CreateThreadpoolWait"}
+System,LdrGetProcedureAddress,{"module_name": "SetThreadpoolWait"}
+System,LdrGetProcedureAddress,{"module_name": "CloseThreadpoolWait"}
+System,LdrGetProcedureAddress,{"module_name": "FlushProcessWriteBuffers"}
+System,LdrGetProcedureAddress,{"module_name": "FreeLibraryWhenCallbackReturns"}
+System,LdrGetProcedureAddress,{"module_name": "GetCurrentProcessorNumber"}
+System,LdrGetProcedureAddress,{"module_name": "CreateSymbolicLinkW"}
+System,LdrGetProcedureAddress,{"module_name": "GetCurrentPackageId"}
+System,LdrGetProcedureAddress,{"module_name": "GetTickCount64"}
+System,LdrGetProcedureAddress,{"module_name": "GetFileInformationByHandleEx"}
+System,LdrGetProcedureAddress,{"module_name": "SetFileInformationByHandle"}
+System,LdrGetProcedureAddress,{"module_name": "GetSystemTimePreciseAsFileTime"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeConditionVariable"}
+System,LdrGetProcedureAddress,{"module_name": "WakeConditionVariable"}
+System,LdrGetProcedureAddress,{"module_name": "WakeAllConditionVariable"}
+System,LdrGetProcedureAddress,{"module_name": "SleepConditionVariableCS"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "TryAcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "SleepConditionVariableSRW"}
+System,LdrGetProcedureAddress,{"module_name": "CreateThreadpoolWork"}
+System,LdrGetProcedureAddress,{"module_name": "SubmitThreadpoolWork"}
+System,LdrGetProcedureAddress,{"module_name": "CloseThreadpoolWork"}
+System,LdrGetProcedureAddress,{"module_name": "CompareStringEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetLocaleInfoEx"}
+System,LdrGetProcedureAddress,{"module_name": "LCMapStringEx"}
+System,LdrGetProcedureAddress,{"module_name": "SleepConditionVariableCS"}
+System,LdrGetProcedureAddress,{"module_name": "WakeAllConditionVariable"}
+System,LdrGetProcedureAddress,{"module_name": "SetFileInformationByHandle"}
+System,LdrGetProcedureAddress,{"module_name": "CryptUnprotectData"}
+System,LdrGetProcedureAddress,{"module_name": "BCryptSetProperty"}
+System,LdrGetProcedureAddress,{"module_name": "BCryptGenerateSymmetricKey"}
+System,LdrGetProcedureAddress,{"module_name": "BCryptOpenAlgorithmProvider"}
+System,LdrGetProcedureAddress,{"module_name": "BCryptDecrypt"}
+System,LdrGetProcedureAddress,{"module_name": "CreateToolhelp32Snapshot"}
+System,LdrGetProcedureAddress,{"module_name": "Process32Next"}
+System,LdrGetProcedureAddress,{"module_name": "OpenProcess"}
+System,LdrGetProcedureAddress,{"module_name": "SetCurrentDirectoryA"}
+System,LdrGetProcedureAddress,{"module_name": "QueryFullProcessImageNameA"}
+System,LdrGetProcedureAddress,{"module_name": "CreateCompatibleBitmap"}
+System,LdrGetProcedureAddress,{"module_name": "BitBlt"}
+System,LdrGetProcedureAddress,{"module_name": "DeleteObject"}
+System,LdrGetProcedureAddress,{"module_name": "CreateCompatibleDC"}
+System,LdrGetProcedureAddress,{"module_name": "SelectObject"}
+System,LdrGetProcedureAddress,{"module_name": "DeleteDC"}
+System,LdrGetProcedureAddress,{"module_name": "RegGetValueA"}
+System,LdrGetProcedureAddress,{"module_name": "RegOpenKeyExA"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "GetFileInformationByHandleEx"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": ".0"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": ".0"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": ".com"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+File,NtReadFile,{"Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrGetProcedureAddress,{"module_name": "FlsAlloc"}
+System,LdrGetProcedureAddress,{"module_name": "FlsFree"}
+System,LdrGetProcedureAddress,{"module_name": "FlsGetValue"}
+System,LdrGetProcedureAddress,{"module_name": "FlsSetValue"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeCriticalSectionEx"}
+System,LdrGetProcedureAddress,{"module_name": "CreateEventExW"}
+System,LdrGetProcedureAddress,{"module_name": "CreateSemaphoreExW"}
+System,LdrGetProcedureAddress,{"module_name": "SetThreadStackGuarantee"}
+System,LdrGetProcedureAddress,{"module_name": "CreateThreadpoolTimer"}
+System,LdrGetProcedureAddress,{"module_name": "SetThreadpoolTimer"}
+System,LdrGetProcedureAddress,{"module_name": "WaitForThreadpoolTimerCallbacks"}
+System,LdrGetProcedureAddress,{"module_name": "CloseThreadpoolTimer"}
+System,LdrGetProcedureAddress,{"module_name": "CreateThreadpoolWait"}
+System,LdrGetProcedureAddress,{"module_name": "SetThreadpoolWait"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}

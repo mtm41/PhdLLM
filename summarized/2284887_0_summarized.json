@@ -1,0 +1,200 @@
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".Word"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".Word"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".rcd"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".rcd"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": ".DLL"}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": ".xml"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Windows", "FileExtension": ".dll"}
+File,NtOpenFile,{"Directory": "C:\\Windows", "FileExtension": ".windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Program Files", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}

@@ -1,0 +1,2700 @@
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+System,LdrGetProcedureAddress,{"module_name": "NtQueryVirtualMemory"}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+sync,GetSystemTimeAsFileTime,{"Appearances": 1}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrGetProcedureAddress,{"module_name": "FlsAlloc"}
+System,LdrGetProcedureAddress,{"module_name": "FlsGetValue"}
+System,LdrGetProcedureAddress,{"module_name": "FlsSetValue"}
+System,LdrGetProcedureAddress,{"module_name": "FlsFree"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "CryptAcquireContextA"}
+System,LdrGetProcedureAddress,{"module_name": "CryptCreateHash"}
+System,LdrGetProcedureAddress,{"module_name": "CryptHashData"}
+System,LdrGetProcedureAddress,{"module_name": "CryptGetHashParam"}
+System,LdrGetProcedureAddress,{"module_name": "CryptDestroyHash"}
+System,LdrGetProcedureAddress,{"module_name": "CryptReleaseContext"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\LSA\\AccessProviders"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\AccessProviders\\MartaExtension"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\AccessProviders\\MartaExtension"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+sync,GetSystemTimeAsFileTime,{"Appearances": 2}
+sync,GetSystemTimeAsFileTime,{"Appearances": 3}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\LDAP"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\LDAP\\LdapClientIntegrity"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\LDAP"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\LDAP\\UseOldHostResolutionOrder"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\LDAP"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\LDAP\\UseHostnameAsAlias"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "GetMartaExtensionInterface"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "CryptImportKey"}
+System,LdrGetProcedureAddress,{"module_name": "CryptGetKeyParam"}
+System,LdrGetProcedureAddress,{"module_name": "CryptGenRandom"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\", "FileExtension": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc"}
+File,NtWriteFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtReadFile,{"Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "IsWow64Process"}
+System,LdrGetProcedureAddress,{"module_name": "CryptSetHashParam"}
+System,LdrGetProcedureAddress,{"module_name": "CryptEncrypt"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,LdrGetProcedureAddress,{"module_name": "WSAIoctl"}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,LdrGetProcedureAddress,{"module_name": "NotifyIpInterfaceChange"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "NotifyUnicastIpAddressChange"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,NtClose,{"module_name": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "GetBestInterfaceEx"}
+System,LdrGetProcedureAddress,{"module_name": "GetIfEntry2"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,LdrGetProcedureAddress,{"module_name": "WSAGetOverlappedResult"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "CryptDestroyKey"}
+System,LdrGetProcedureAddress,{"module_name": "IsWow64Process"}
+File,NtCreateFile,{"Directory": "\\", "FileExtension": "Not Found"}
+File,NtWriteFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtReadFile,{"Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\system\\CurrentControlSet"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\control\\NetworkProvider\\HwOrder"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\NetworkProvider\\HwOrder\\ProviderOrder"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\NetworkProvider\\HwOrder\\ProviderOrder"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\RDPNP\\NetworkProvider"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\RDPNP\\NetworkProvider\\name"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\RDPNP\\NetworkProvider\\name"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\RDPNP\\NetworkProvider\\Class"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\RDPNP\\NetworkProvider\\ProviderPath"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\RDPNP\\NetworkProvider\\ProviderPath"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\LanmanWorkstation\\NetworkProvider"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\LanmanWorkstation\\NetworkProvider\\name"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\LanmanWorkstation\\NetworkProvider\\name"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\LanmanWorkstation\\NetworkProvider\\Class"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\LanmanWorkstation\\NetworkProvider\\ProviderPath"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\LanmanWorkstation\\NetworkProvider\\ProviderPath"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\webclient\\NetworkProvider"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\WebClient\\NetworkProvider\\name"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\WebClient\\NetworkProvider\\name"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\WebClient\\NetworkProvider\\Class"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\WebClient\\NetworkProvider\\ProviderPath"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\WebClient\\NetworkProvider\\ProviderPath"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "LoadStringW"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\RDPNP\\NetworkProvider"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\RDPNP\\NetworkProvider\\Name"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetCaps"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetUser"}
+System,LdrGetProcedureAddress,{"module_name": "NPAddConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPAddConnection3"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetReconnectFlags"}
+System,LdrGetProcedureAddress,{"module_name": "NPCancelConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnection3"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetUniversalName"}
+System,LdrGetProcedureAddress,{"module_name": "NPOpenEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NPEnumResource"}
+System,LdrGetProcedureAddress,{"module_name": "NPCloseEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetResourceParent"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetResourceInformation"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetCaps"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetUser"}
+System,LdrGetProcedureAddress,{"module_name": "NPAddConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPAddConnection3"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetReconnectFlags"}
+System,LdrGetProcedureAddress,{"module_name": "NPCancelConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnection3"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetUniversalName"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnectionPerformance"}
+System,LdrGetProcedureAddress,{"module_name": "NPOpenEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NPEnumResource"}
+System,LdrGetProcedureAddress,{"module_name": "NPCloseEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NPFormatNetworkName"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetResourceParent"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetResourceInformation"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\WebClient\\NetworkProvider"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\WebClient\\NetworkProvider\\Name"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetCaps"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetUser"}
+System,LdrGetProcedureAddress,{"module_name": "NPAddConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPAddConnection3"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetReconnectFlags"}
+System,LdrGetProcedureAddress,{"module_name": "NPCancelConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnection"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetConnection3"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetUniversalName"}
+System,LdrGetProcedureAddress,{"module_name": "NPOpenEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NPEnumResource"}
+System,LdrGetProcedureAddress,{"module_name": "NPCloseEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NPFormatNetworkName"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetResourceParent"}
+System,LdrGetProcedureAddress,{"module_name": "NPGetResourceInformation"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "LookupAccountSidW"}
+System,LdrGetProcedureAddress,{"module_name": "CreateWellKnownSid"}
+System,LdrGetProcedureAddress,{"module_name": "RpcStringBindingComposeW"}
+System,LdrGetProcedureAddress,{"module_name": "RpcBindingFromStringBindingW"}
+System,LdrGetProcedureAddress,{"module_name": "RpcStringFreeW"}
+System,LdrGetProcedureAddress,{"module_name": "RpcBindingSetAuthInfoExW"}
+System,LdrGetProcedureAddress,{"module_name": "LookupAccountNameLocalW"}
+System,LdrGetProcedureAddress,{"module_name": "NdrClientCall2"}
+System,LdrGetProcedureAddress,{"module_name": "RpcBindingFree"}
+System,LdrGetProcedureAddress,{"module_name": "NetWkstaGetInfo"}
+File,NtCreateFile,{"Directory": "\\", "FileExtension": "Not Found"}
+File,NtWriteFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtReadFile,{"Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "CscNetApiGetInterface"}
+System,LdrGetProcedureAddress,{"module_name": "NetApiBufferFree"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\NetworkProvider"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\LanmanWorkstation\\NetworkProvider\\Name"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\LanmanWorkstation\\NetworkProvider\\Name"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+File,NtOpenFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "NetUseEnum"}
+System,LdrGetProcedureAddress,{"module_name": "NetRemoteComputerSupports"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+System,LdrGetProcedureAddress,{"module_name": "RpcStringBindingComposeW"}
+System,LdrGetProcedureAddress,{"module_name": "RpcBindingFromStringBindingW"}
+System,LdrGetProcedureAddress,{"module_name": "RpcStringFreeW"}
+System,LdrGetProcedureAddress,{"module_name": "NdrClientCall2"}
+File,NtCreateFile,{"Directory": "\\", "FileExtension": "Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 4}
+sync,GetSystemTimeAsFileTime,{"Appearances": 5}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "I_RpcExceptionFilter"}
+System,LdrGetProcedureAddress,{"module_name": "RpcBindingFree"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "NetServerEnum"}
+System,LdrGetProcedureAddress,{"module_name": "OpenSCManagerW"}
+System,LdrGetProcedureAddress,{"module_name": "OpenServiceW"}
+File,NtOpenFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\", "FileExtension": "Not Found"}
+File,NtWriteFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+File,NtReadFile,{"Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtOpenFile,{"Directory": "\\Device", "FileExtension": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtReadFile,{"Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\Device", "FileExtension": "."}
+File,NtCreateFile,{"Directory": "\\", "FileExtension": "Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 6}
+sync,GetSystemTimeAsFileTime,{"Appearances": 7}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Network"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\*", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "C:\\Users", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE\\MaximumAllowedAllocationSize"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Safeboot\\Option"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Safeboot\\Option"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\ProductOptions"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\ProductOptions\\ProductType"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtCreateFile,{"Directory": "C:\\Windows", "FileExtension": ".DLL.mui"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MiniNT"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\VSS\\VssAccessControl"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\VSS\\Diag"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\VSS\\Diag\\(Default)"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\VSS\\Diag\\VssapiPublisher"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": ".en"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": ".en"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": ".en"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": ".en"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": ".es"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": ".es"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": ".es"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": ".es"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": ".fr"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": ".fr"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": ".fr"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": ".fr"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\MSOCache", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\PerfLogs", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\PerfLogs", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\PerfLogs", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\PerfLogs", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\PerfLogs", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\PerfLogs", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\PerfLogs", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\PerfLogs", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\PerfLogs", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\PerfLogs", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": ".0"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": ".0"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": ".0"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": ".0"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": ".0"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": ".0"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": ".0"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": ".0"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtOpenFile,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,NtQueryDirectoryFile,{"Directory": "C:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+File,FindFirstFileExW,{"Directory": "c:\\ProgramData", "FileExtension": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 8}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".html"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".html"}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".passwd.pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".passwd.pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 9}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 10}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\tmpk4d6bl", "FileExtension": ".p12"}
+File,NtCreateFile,{"Directory": "c:\\tmpk4d6bl", "FileExtension": ".p12"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\tmpk4d6bl", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\tmpk4d6bl", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 11}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,NtCreateFile,{"Directory": "c:\\tmpk4d6bl", "FileExtension": ".html"}
+File,NtWriteFile,{"Directory": "C:\\tmpk4d6bl", "FileExtension": ".html"}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 12}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 13}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 14}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 15}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 16}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 17}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 18}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 19}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 20}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 21}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 22}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".passwd.pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".passwd.pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 23}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 24}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 25}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 26}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 27}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".pem"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 28}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".html"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".html"}
+File,GetFileAttributesExW,{"Directory": "c:\\Users", "FileExtension": ".pptx"}
+File,NtCreateFile,{"Directory": "c:\\Users", "FileExtension": ".pptx"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 29}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,NtCreateFile,{"Directory": "c:\\Users", "FileExtension": ".html"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".html"}
+File,GetFileAttributesExW,{"Directory": "c:\\Users", "FileExtension": ".pptx"}
+File,NtCreateFile,{"Directory": "c:\\Users", "FileExtension": ".pptx"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 30}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Users", "FileExtension": ".pptx"}
+File,NtCreateFile,{"Directory": "c:\\Users", "FileExtension": ".pptx"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 31}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Users", "FileExtension": ".doc"}
+File,NtCreateFile,{"Directory": "c:\\Users", "FileExtension": ".doc"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 32}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Users", "FileExtension": ".ppt"}
+File,NtCreateFile,{"Directory": "c:\\Users", "FileExtension": ".ppt"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 33}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Users", "FileExtension": ".doc"}
+File,NtCreateFile,{"Directory": "c:\\Users", "FileExtension": ".doc"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Users", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 34}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 35}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".html"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".html"}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 36}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 37}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 38}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 39}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 40}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 41}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 42}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 43}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 44}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,NtCreateFile,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 45}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 46}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+Process,NtAllocateVirtualMemory,{"flags": 2}
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 47}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 48}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 49}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 50}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 51}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 52}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,NtWriteFile,{"Directory": "C:\\Python27", "FileExtension": ".zepto"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 53}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 54}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 55}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 56}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 57}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 58}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 59}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 60}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Users", "FileExtension": ".rtf"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 61}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 62}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 63}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 64}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 65}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 66}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Users", "FileExtension": ".docm"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 67}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Users", "FileExtension": ".rtf"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 68}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".cs"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 69}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".cs"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 70}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".cs"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 71}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".cs"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 72}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".cs"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 73}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".cs"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 74}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".cs"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 75}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 76}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 77}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".cs"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 78}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 79}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 80}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 81}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 82}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 83}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 84}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 85}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 86}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 87}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 88}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 89}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 90}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 91}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 92}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 93}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 94}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 95}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 96}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 97}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 98}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 99}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+sync,GetSystemTimeAsFileTime,{"Appearances": 100}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,NtReadFile,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,SetFilePointer,{"Not Found"}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,SetFilePointer,{"Not Found"}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,SetFilePointer,{"Not Found"}
+File,SetFileTime,{"Not Found"}
+Process,NtFreeVirtualMemory,{"flags": 0}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+Crypto,CryptEncrypt,Not Found
+File,SetFilePointer,{"Not Found"}
+File,SetFileTime,{"Not Found"}
+File,GetFileAttributesExW,{"Directory": "c:\\Python27", "FileExtension": ".h"}
+File,MoveFileWithProgressW,{"Not Found"}
+File,SetFilePointer,{"Not Found"}
+File,SetFileTime,{"Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoPropertiesMyComputer"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoPropertiesMyComputer"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoPropertiesRecycleBin"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoPropertiesRecycleBin"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoControlPanel"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoControlPanel"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoSetFolders"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoSetFolders"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoInternetIcon"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoInternetIcon"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoCommonGroups"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoCommonGroups"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\Attributes"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\CallForAttributes"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\RestrictedAttributes"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\WantsFORDISPLAY"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\HideFolderVerbs"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\UseDropHandler"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\WantsFORPARSING"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\WantsParseDisplayName"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\QueryForOverlay"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\MapNetDriveVerbs"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\QueryForInfoTip"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\HideInWebView"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\HideOnDesktopPerUser"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\WantsAliasedNotifications"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\WantsUniversalDelegate"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\NoFileFolderJunction"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\PinToNameSpaceTree"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\HasNavigationEnum"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\NonEnum"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\NonEnum"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\NonEnum\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\Drive\\shellex\\FolderExtensions"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\Drive\\shellex\\FolderExtensions\\{fbeb8a05-beee-4442-804e-409d6c4515e9}"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Drive\\shellex\\FolderExtensions\\{fbeb8a05-beee-4442-804e-409d6c4515e9}\\DriveMask"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\AllowFileCLSIDJunctions"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\AllowFileCLSIDJunctions"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\DontShowSuperHidden"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\DontShowSuperHidden"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\(Default)"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ShellState"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ShellState"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoWebView"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoWebView"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\ClassicShell"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\ClassicShell"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\SeparateProcess"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\SeparateProcess"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoNetCrawling"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoNetCrawling"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoSimpleStartMenu"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoSimpleStartMenu"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\Hidden"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\ShowCompColor"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\HideFileExt"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\DontPrettyPath"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\ShowInfoTip"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\HideIcons"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\MapNetDrvBtn"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\WebView"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\Filter"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\ShowSuperHidden"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\SeparateProcess"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\NoNetCrawling"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\AutoCheckSelect"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\IconsOnly"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\ShowTypeOverlay"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\.html"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\.html\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\.html\\OpenWithProgids"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.html\\OpenWithProgids"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\.html"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.html"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.html\\(Default)"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.html\\UserChoice"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\htmlfile"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\htmlfile\\CurVer"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\htmlfile\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\htmlfile\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\htmlfile\\ShellEx\\IconHandler"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\htmlfile\\shellex\\IconHandler\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\htmlfile\\DocObject"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\htmlfile\\DocObject"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\SystemFileAssociations\\.html"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.html\\DocObject"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.html\\DocObject"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\SystemFileAssociations\\document"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\htmlfile\\BrowseInPlace"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\htmlfile\\BrowseInPlace"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.html\\BrowseInPlace"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.html\\BrowseInPlace"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\.html\\Content Type"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\htmlfile\\Clsid"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\htmlfile\\CLSID\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\CLSID\\{25336920-03F9-11cf-8FD0-00AA00686F13}\\Implemented Categories\\{00021490-0000-0000-C000-000000000046}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\Shell\\RegisteredApplications\\UrlAssociations\\Directory\\OpenWithProgids"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\Directory"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\Directory"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\CurVer"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\ShellEx\\IconHandler"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\Folder"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Folder\\ShellEx\\IconHandler"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\AllFilesystemObjects"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AllFilesystemObjects\\ShellEx\\IconHandler"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\DocObject"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Folder\\DocObject"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AllFilesystemObjects\\DocObject"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\BrowseInPlace"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Folder\\BrowseInPlace"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AllFilesystemObjects\\BrowseInPlace"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\Clsid"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Folder\\Clsid"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AllFilesystemObjects\\Clsid"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\KindMap"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "SystemFunction036"}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Process,NtAllocateVirtualMemory,{"flags": 254}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Security_HKLM_only"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ENABLESAFESEARCHPATH_KB963027"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_ENABLESAFESEARCHPATH_KB963027"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale\\en-US"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\ExtendedLocale\\en-US"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "SortGetHandle"}
+System,LdrGetProcedureAddress,{"module_name": "SortCloseHandle"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Low Rights"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Internet Explorer"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Low Rights"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Low Rights"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Internet Explorer\\Main"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer\\Main"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Internet Explorer\\Main"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Low Rights"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Low Rights"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Low Rights"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Setup"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Setup\\HaveCreatedQuickLaunchItems"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE\\PageAllocatorUseSystemHeap"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE\\PageAllocatorSystemHeapIsPrivate"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "I_RpcInitNdrImports"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\OLE\\Tracing"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLEAUT"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLEAUT"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\SideBySide\\PreferExternalManifest"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "InitCommonControlsEx"}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Rpc"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Rpc\\MaxRpcSize"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\ComputerName\\ActiveComputerName\\ComputerName"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\Setup\\OOBEInProgress"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\Setup\\SystemSetupInProgress"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SQMClient\\Windows\\CEIPEnable"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer\\Safety\\PrivacIE"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Internet Explorer\\Safety\\PrivacIE"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Safety\\PrivacIE"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Internet Explorer\\Safety\\PrivacIE"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\CompatibilityFlags"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "InitializeSRWLock"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockExclusive"}
+System,LdrGetProcedureAddress,{"module_name": "AcquireSRWLockShared"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseSRWLockExclusive"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Low Rights"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Low Rights"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Low Rights"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Low Rights"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Low Rights"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Low Rights"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SQM"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SQM\\ServerFreezeOnUpload"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Internet Explorer\\SQM"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\SQMClient\\Windows"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SQMClient\\Windows"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Internet Explorer"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Internet Explorer"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{26656EAA-54EB-4E6F-8F85-4F0EF901A406}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\Interface\\{26656EAA-54EB-4E6F-8F85-4F0EF901A406}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{26656EAA-54EB-4E6F-8F85-4F0EF901A406}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{26656EAA-54EB-4E6F-8F85-4F0EF901A406}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{26656EAA-54EB-4E6F-8F85-4F0EF901A406}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{26656EAA-54EB-4E6F-8F85-4F0EF901A406}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{26656EAA-54EB-4E6F-8F85-4F0EF901A406}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{26656EAA-54EB-4E6F-8F85-4F0EF901A406}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{26656EAA-54EB-4E6F-8F85-4F0EF901A406}\\ProxyStubClsid32"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{26656EAA-54EB-4E6F-8F85-4F0EF901A406}\\ProxyStubClsid32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{26656EAA-54EB-4E6F-8F85-4F0EF901A406}\\ProxyStubClsid32\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{8A40A45D-055C-4B62-ABD7-6D613E2CEAEC}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\Interface\\{8A40A45D-055C-4B62-ABD7-6D613E2CEAEC}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{8A40A45D-055C-4B62-ABD7-6D613E2CEAEC}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{8A40A45D-055C-4B62-ABD7-6D613E2CEAEC}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{8A40A45D-055C-4B62-ABD7-6D613E2CEAEC}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{8A40A45D-055C-4B62-ABD7-6D613E2CEAEC}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{8A40A45D-055C-4B62-ABD7-6D613E2CEAEC}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{8A40A45D-055C-4B62-ABD7-6D613E2CEAEC}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{8A40A45D-055C-4B62-ABD7-6D613E2CEAEC}\\ProxyStubClsid32"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{8A40A45D-055C-4B62-ABD7-6D613E2CEAEC}\\ProxyStubClsid32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{8A40A45D-055C-4B62-ABD7-6D613E2CEAEC}\\ProxyStubClsid32\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{55272A00-42CB-11CE-8135-00AA004BB851}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\Interface\\{55272A00-42CB-11CE-8135-00AA004BB851}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{55272A00-42CB-11CE-8135-00AA004BB851}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{55272A00-42CB-11CE-8135-00AA004BB851}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{55272A00-42CB-11CE-8135-00AA004BB851}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{55272A00-42CB-11CE-8135-00AA004BB851}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{55272A00-42CB-11CE-8135-00AA004BB851}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{55272A00-42CB-11CE-8135-00AA004BB851}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{55272A00-42CB-11CE-8135-00AA004BB851}\\ProxyStubClsid32"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{55272A00-42CB-11CE-8135-00AA004BB851}\\ProxyStubClsid32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{55272A00-42CB-11CE-8135-00AA004BB851}\\ProxyStubClsid32\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\TreatAs"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\TreatAs"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\Progid"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\Progid"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Wow6432Node\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\Wow6432Node\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Wow6432Node\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\Progid"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\Progid"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\(Default)"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\(Default)"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32\\InprocServer32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32\\(Default)"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32\\(Default)"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocServer32\\ThreadingModel"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocHandler32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocHandler32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocHandler"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\InprocHandler"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\TreatAs"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{B196B286-BAB4-101A-B69C-00AA00341D07}\\TreatAs"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\OleAut"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{BCD1DE7E-2DB1-418B-B047-4A74E101F8C1}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\Interface\\{BCD1DE7E-2DB1-418B-B047-4A74E101F8C1}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{BCD1DE7E-2DB1-418B-B047-4A74E101F8C1}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{BCD1DE7E-2DB1-418B-B047-4A74E101F8C1}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{BCD1DE7E-2DB1-418B-B047-4A74E101F8C1}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{BCD1DE7E-2DB1-418B-B047-4A74E101F8C1}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{BCD1DE7E-2DB1-418B-B047-4A74E101F8C1}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{BCD1DE7E-2DB1-418B-B047-4A74E101F8C1}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{BCD1DE7E-2DB1-418B-B047-4A74E101F8C1}\\ProxyStubClsid32"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{BCD1DE7E-2DB1-418B-B047-4A74E101F8C1}\\ProxyStubClsid32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{BCD1DE7E-2DB1-418B-B047-4A74E101F8C1}\\ProxyStubClsid32\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{2A1C9EB2-DF62-4154-B800-63278FCB8037}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\Interface\\{2A1C9EB2-DF62-4154-B800-63278FCB8037}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{2A1C9EB2-DF62-4154-B800-63278FCB8037}"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{2A1C9EB2-DF62-4154-B800-63278FCB8037}"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{2A1C9EB2-DF62-4154-B800-63278FCB8037}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{2A1C9EB2-DF62-4154-B800-63278FCB8037}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{2A1C9EB2-DF62-4154-B800-63278FCB8037}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{2A1C9EB2-DF62-4154-B800-63278FCB8037}\\ProxyStubClsid32"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{2A1C9EB2-DF62-4154-B800-63278FCB8037}\\ProxyStubClsid32"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{2A1C9EB2-DF62-4154-B800-63278FCB8037}\\ProxyStubClsid32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{2A1C9EB2-DF62-4154-B800-63278FCB8037}\\ProxyStubClsid32\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{092F0E6C-7874-4263-8D41-969F2B667EA2}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Main"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ALLOW_REVERSE_SOLIDUS_IN_USERINFO_KB932562"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_ALLOW_REVERSE_SOLIDUS_IN_USERINFO_KB932562"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer\\SearchScopes"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\SearchScopes"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation\\ClearableListData"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\OperationalData"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Category"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Name"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\ParentFolder"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Description"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\RelativePath"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\ParsingName"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\InfoTip"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\LocalizedName"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Icon"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Security"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\StreamResource"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{1AC7516E-E6BB-4A69-B63F-E841904DC5A6}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\Interface\\{1AC7516E-E6BB-4A69-B63F-E841904DC5A6}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\StreamResourceType"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{1AC7516E-E6BB-4A69-B63F-E841904DC5A6}\\ProxyStubClsid32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\LocalRedirectOnly"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Roamable"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\PreCreate"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{1AC7516E-E6BB-4A69-B63F-E841904DC5A6}\\ProxyStubClsid32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Stream"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Interface\\{1AC7516E-E6BB-4A69-B63F-E841904DC5A6}\\ProxyStubClsid32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{1AC7516E-E6BB-4A69-B63F-E841904DC5A6}\\ProxyStubClsid32\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\PublishExpandedPath"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Attributes"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\FolderTypeID"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\TreatAs"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\InitFolderHandler"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\TreatAs"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\Progid"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\PropertyBag"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\Progid"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Wow6432Node\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1\\KnownFolders"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Classes\\Wow6432Node\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Wow6432Node\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\Progid"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Desktop"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\Progid"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\(Default)"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\(Default)"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InprocServer32"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InprocServer32"}
+System,NtClose,{"module_name": "Not Found"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InProcServer32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InProcServer32\\InprocServer32"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InProcServer32"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InProcServer32\\(Default)"}
+System,NtClose,{"module_name": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InProcServer32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InProcServer32\\(Default)"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InProcServer32"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InProcServer32\\ThreadingModel"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InprocHandler32"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InprocHandler32"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InprocHandler"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}\\InprocHandler"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\CLSID\\{A4A1A128-768F-41E0-BF75-E4FDDD701CBA}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Content"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Content\\CacheLimit"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Cookies"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Cookies\\CacheLimit"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\History"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\History\\CacheLimit"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "\\REGISTRY\\USER\\.DEFAULT\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Local AppData"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\ProfileList\\Default"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\ProfileList\\Default"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Toolbars\\Restrictions"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Toolbars\\Restrictions"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Toolbars\\Restrictions"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Internet Explorer\\Toolbar"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories\\{00021493-0000-0000-C000-000000000046}\\Enum\\Implementing"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021493-0000-0000-C000-000000000046}\\Enum\\Implementing"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021493-0000-0000-C000-000000000046}\\Enum\\Implementing"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021493-0000-0000-C000-000000000046}\\Enum"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories\\{00021493-0000-0000-C000-000000000046}\\Enum\\Implementing"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories\\{00021493-0000-0000-C000-000000000046}\\Enum"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories\\{00021494-0000-0000-C000-000000000046}\\Enum\\Implementing"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021494-0000-0000-C000-000000000046}\\Enum\\Implementing"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021494-0000-0000-C000-000000000046}\\Enum\\Implementing"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021494-0000-0000-C000-000000000046}\\Enum"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories\\{00021494-0000-0000-C000-000000000046}\\Enum\\Implementing"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories\\{00021494-0000-0000-C000-000000000046}\\Enum"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Browser Helper Objects"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings\\{18DF081C-E8AD-4283-A596-FA578C2EBDC3}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Browser Helper Objects\\{B4F3A835-0E21-4959-BA22-42B3008E02FF}\\NoInternetExplorer"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings\\{B4F3A835-0E21-4959-BA22-42B3008E02FF}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Browser Helper Objects"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Browser Helper Objects\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\NoInternetExplorer"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Browser Helper Objects\\{B4F3A835-0E21-4959-BA22-42B3008E02FF}\\NoInternetExplorer"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Browser Helper Objects\\{DBC80044-A445-435b-BC74-9C25C1C588A9}\\NoInternetExplorer"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings\\{DBC80044-A445-435B-BC74-9C25C1C588A9}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Extension Compatibility\\{18DF081C-E8AD-4283-A596-FA578C2EBDC3}"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\Extension Compatibility\\{18DF081C-E8AD-4283-A596-FA578C2EBDC3}"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Extension Compatibility\\{B4F3A835-0E21-4959-BA22-42B3008E02FF}"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\Extension Compatibility\\{B4F3A835-0E21-4959-BA22-42B3008E02FF}"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Extension Compatibility\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\Extension Compatibility\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Extension Compatibility\\{DBC80044-A445-435B-BC74-9C25C1C588A9}"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\Extension Compatibility\\{DBC80044-A445-435B-BC74-9C25C1C588A9}"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_SHELLWINDOWSWITHOUTEXPLORER"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_SHELLWINDOWSWITHOUTEXPLORER"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer\\BrowserEmulation"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Safety\\PrivacIE\\Lists"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Security_HKLM_only"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_IGNORE_POLICIES_ZONEMAP_IF_ESC_ENABLED_KB918915"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_IGNORE_POLICIES_ZONEMAP_IF_ESC_ENABLED_KB918915"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Security"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Security"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Security"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\System\\Setup"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\Flags"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_LOCALMACHINE_LOCKDOWN"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_LOCALMACHINE_LOCKDOWN\\iexplore.exe"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3\\Flags"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\Flags"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\1001"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\1001"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\1001"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\1001"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\1004"}
+Registry,NtQueryValueKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4\\1004"}

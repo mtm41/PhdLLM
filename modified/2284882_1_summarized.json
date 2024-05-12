@@ -1,0 +1,1180 @@
+System,LdrGetProcedureAddress,{"module_name": "SetThreadPriority"}
+System,LdrGetProcedureAddress,{"module_name": "GetCurrentThread"}
+System,LdrGetProcedureAddress,{"module_name": "GetCurrentProcess"}
+System,LdrGetProcedureAddress,{"module_name": "SetPriorityClass"}
+System,LdrGetProcedureAddress,{"module_name": "GetEnvironmentVariableA"}
+System,LdrGetProcedureAddress,{"module_name": "GetShortPathNameA"}
+System,LdrGetProcedureAddress,{"module_name": "ExitProcess"}
+System,LdrGetProcedureAddress,{"module_name": "GetTickCount"}
+System,LdrGetProcedureAddress,{"module_name": "CloseHandle"}
+System,LdrGetProcedureAddress,{"module_name": "ReleaseMutex"}
+System,LdrGetProcedureAddress,{"module_name": "OpenMutexA"}
+System,LdrGetProcedureAddress,{"module_name": "lstrlenA"}
+System,LdrGetProcedureAddress,{"module_name": "lstrcpynA"}
+System,LdrGetProcedureAddress,{"module_name": "WaitForSingleObject"}
+System,LdrGetProcedureAddress,{"module_name": "SetFilePointer"}
+System,LdrGetProcedureAddress,{"module_name": "WriteFile"}
+System,LdrGetProcedureAddress,{"module_name": "CreateFileA"}
+System,LdrGetProcedureAddress,{"module_name": "LockResource"}
+System,LdrGetProcedureAddress,{"module_name": "LoadResource"}
+System,LdrGetProcedureAddress,{"module_name": "FindResourceA"}
+System,LdrGetProcedureAddress,{"module_name": "EnumResourceNamesA"}
+System,LdrGetProcedureAddress,{"module_name": "CreateThread"}
+System,LdrGetProcedureAddress,{"module_name": "UpdateResourceA"}
+System,LdrGetProcedureAddress,{"module_name": "BeginUpdateResourceA"}
+System,LdrGetProcedureAddress,{"module_name": "GlobalFree"}
+System,LdrGetProcedureAddress,{"module_name": "ReadFile"}
+System,LdrGetProcedureAddress,{"module_name": "GlobalAlloc"}
+System,LdrGetProcedureAddress,{"module_name": "GetFileSize"}
+System,LdrGetProcedureAddress,{"module_name": "GetFileAttributesA"}
+System,LdrGetProcedureAddress,{"module_name": "VirtualFree"}
+System,LdrGetProcedureAddress,{"module_name": "VirtualProtect"}
+System,LdrGetProcedureAddress,{"module_name": "VirtualAlloc"}
+System,LdrGetProcedureAddress,{"module_name": "GetSystemInfo"}
+System,LdrGetProcedureAddress,{"module_name": "GetModuleHandleA"}
+System,LdrGetProcedureAddress,{"module_name": "GetLastError"}
+System,LdrGetProcedureAddress,{"module_name": "GetWindowsDirectoryA"}
+System,LdrGetProcedureAddress,{"module_name": "GlobalMemoryStatusEx"}
+System,LdrGetProcedureAddress,{"module_name": "lstrcpyA"}
+System,LdrGetProcedureAddress,{"module_name": "GetSystemDefaultUILanguage"}
+System,LdrGetProcedureAddress,{"module_name": "TerminateProcess"}
+System,LdrGetProcedureAddress,{"module_name": "ExitThread"}
+System,LdrGetProcedureAddress,{"module_name": "GetStartupInfoA"}
+System,LdrGetProcedureAddress,{"module_name": "lstrcmpA"}
+System,LdrGetProcedureAddress,{"module_name": "Sleep"}
+System,LdrGetProcedureAddress,{"module_name": "GetLocalTime"}
+System,LdrGetProcedureAddress,{"module_name": "WinExec"}
+System,LdrGetProcedureAddress,{"module_name": "GetModuleFileNameA"}
+System,LdrGetProcedureAddress,{"module_name": "LoadLibraryA"}
+System,LdrGetProcedureAddress,{"module_name": "EndUpdateResourceA"}
+System,LdrGetProcedureAddress,{"module_name": "GetProcAddress"}
+System,LdrGetProcedureAddress,{"module_name": "CreateProcessA"}
+System,LdrGetProcedureAddress,{"module_name": "StartServiceCtrlDispatcherA"}
+System,LdrGetProcedureAddress,{"module_name": "RegOpenKeyExA"}
+System,LdrGetProcedureAddress,{"module_name": "OpenSCManagerA"}
+System,LdrGetProcedureAddress,{"module_name": "OpenServiceA"}
+System,LdrGetProcedureAddress,{"module_name": "CloseServiceHandle"}
+System,LdrGetProcedureAddress,{"module_name": "DeleteService"}
+System,LdrGetProcedureAddress,{"module_name": "RegQueryValueExA"}
+System,LdrGetProcedureAddress,{"module_name": "GetIfTable"}
+System,LdrGetProcedureAddress,{"module_name": "GetAdaptersInfo"}
+System,LdrGetProcedureAddress,{"module_name": "strcspn"}
+System,LdrGetProcedureAddress,{"module_name": "_except_handler3"}
+System,LdrGetProcedureAddress,{"module_name": "exit"}
+System,LdrGetProcedureAddress,{"module_name": "_controlfp"}
+System,LdrGetProcedureAddress,{"module_name": "__set_app_type"}
+System,LdrGetProcedureAddress,{"module_name": "__p__fmode"}
+System,LdrGetProcedureAddress,{"module_name": "__p__commode"}
+System,LdrGetProcedureAddress,{"module_name": "_adjust_fdiv"}
+System,LdrGetProcedureAddress,{"module_name": "__setusermatherr"}
+System,LdrGetProcedureAddress,{"module_name": "_initterm"}
+System,LdrGetProcedureAddress,{"module_name": "__getmainargs"}
+System,LdrGetProcedureAddress,{"module_name": "_acmdln"}
+System,LdrGetProcedureAddress,{"module_name": "_XcptFilter"}
+System,LdrGetProcedureAddress,{"module_name": "_exit"}
+System,LdrGetProcedureAddress,{"module_name": "free"}
+System,LdrGetProcedureAddress,{"module_name": "strcmp"}
+System,LdrGetProcedureAddress,{"module_name": "??2@YAPAXI@Z"}
+System,LdrGetProcedureAddress,{"module_name": "??3@YAXPAX@Z"}
+System,LdrGetProcedureAddress,{"module_name": "strncmp"}
+System,LdrGetProcedureAddress,{"module_name": "realloc"}
+System,LdrGetProcedureAddress,{"module_name": "malloc"}
+System,LdrGetProcedureAddress,{"module_name": "strlen"}
+System,LdrGetProcedureAddress,{"module_name": "sprintf"}
+System,LdrGetProcedureAddress,{"module_name": "memset"}
+System,LdrGetProcedureAddress,{"module_name": "memcpy"}
+System,LdrGetProcedureAddress,{"module_name": "atoi"}
+System,LdrGetProcedureAddress,{"module_name": "strncpy"}
+System,LdrGetProcedureAddress,{"module_name": "time"}
+System,LdrGetProcedureAddress,{"module_name": "strstr"}
+System,LdrGetProcedureAddress,{"module_name": "strcpy"}
+System,LdrGetProcedureAddress,{"module_name": "localtime"}
+System,LdrGetProcedureAddress,{"module_name": "strcat"}
+System,LdrGetProcedureAddress,{"module_name": "ShellExecuteA"}
+System,LdrGetProcedureAddress,{"module_name": "SHChangeNotify"}
+System,LdrGetProcedureAddress,{"module_name": "ShellExecuteExA"}
+System,LdrGetProcedureAddress,{"module_name": "SHDeleteKeyA"}
+System,LdrGetProcedureAddress,{"module_name": "GetDesktopWindow"}
+System,LdrGetProcedureAddress,{"module_name": "wsprintfA"}
+System,LdrGetProcedureAddress,{"module_name": ""}
+System,LdrGetProcedureAddress,{"module_name": ""}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE\\PageAllocatorUseSystemHeap"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE\\PageAllocatorSystemHeapIsPrivate"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\OLE\\Tracing"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoPropertiesMyComputer"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoPropertiesMyComputer"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoPropertiesRecycleBin"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoPropertiesRecycleBin"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoControlPanel"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoControlPanel"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoSetFolders"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoSetFolders"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoInternetIcon"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoInternetIcon"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoCommonGroups"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoCommonGroups"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\Attributes"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\CallForAttributes"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\RestrictedAttributes"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\WantsFORDISPLAY"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\HideFolderVerbs"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\UseDropHandler"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\WantsFORPARSING"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\WantsParseDisplayName"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\QueryForOverlay"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\MapNetDriveVerbs"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\QueryForInfoTip"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\HideInWebView"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\HideOnDesktopPerUser"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\WantsAliasedNotifications"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\WantsUniversalDelegate"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\NoFileFolderJunction"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\PinToNameSpaceTree"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder\\HasNavigationEnum"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\NonEnum"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\NonEnum"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\NonEnum\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\Drive\\shellex\\FolderExtensions"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\Drive\\shellex\\FolderExtensions\\{fbeb8a05-beee-4442-804e-409d6c4515e9}"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Drive\\shellex\\FolderExtensions\\{fbeb8a05-beee-4442-804e-409d6c4515e9}\\DriveMask"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\AllowFileCLSIDJunctions"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\AllowFileCLSIDJunctions"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\ClassicShell"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\SeparateProcess"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\SeparateProcess"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoNetCrawling"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoNetCrawling"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoSimpleStartMenu"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoSimpleStartMenu"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\Hidden"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\ShowCompColor"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\HideFileExt"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\DontPrettyPath"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\ShowInfoTip"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\HideIcons"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\MapNetDrvBtn"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\WebView"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\Filter"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\ShowSuperHidden"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\SeparateProcess"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\NoNetCrawling"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\AutoCheckSelect"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\IconsOnly"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\ShowTypeOverlay"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\.exe"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\.exe\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\.exe\\OpenWithProgids"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.exe\\OpenWithProgids"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\.exe"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.exe"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.exe\\(Default)"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.exe\\UserChoice"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\exefile"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\CurVer"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\ShellEx\\IconHandler"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\SystemFileAssociations\\.exe"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.exe\\ShellEx\\IconHandler"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\DocObject"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\DocObject"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.exe\\DocObject"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.exe\\DocObject"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\BrowseInPlace"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\BrowseInPlace"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.exe\\BrowseInPlace"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.exe\\BrowseInPlace"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\.exe\\Content Type"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\Clsid"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.exe\\Clsid"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\IsShortcut"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.exe\\IsShortcut"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\AlwaysShowExt"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.exe\\AlwaysShowExt"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\NeverShowExt"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\SystemFileAssociations\\.exe\\NeverShowExt"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Category"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Name"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\ParentFolder"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Description"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\RelativePath"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\ParsingName"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\InfoTip"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\LocalizedName"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Icon"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Security"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\StreamResource"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\StreamResourceType"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\LocalRedirectOnly"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Roamable"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\PreCreate"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Stream"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\PublishExpandedPath"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Attributes"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\FolderTypeID"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\InitFolderHandler"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\PropertyBag"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1\\KnownFolders"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Desktop"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\KnownFolderSettings"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\KnownFolderSettings"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{1B3EA5DC-B587-4786-B4EF-BD1DC332AEAE}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{1B3EA5DC-B587-4786-B4EF-BD1DC332AEAE}\\Category"}
+Registry,RegQueryValueExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{1B3EA5DC-B587-4786-B4EF-BD1DC332AEAE}\\Name"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{1B3EA5DC-B587-4786-B4EF-BD1DC332AEAE}\\PropertyBag"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1\\KnownFolders"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{3EB685DB-65F9-4CF6-A03A-E3EF65729F3D}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{3EB685DB-65F9-4CF6-A03A-E3EF65729F3D}\\PropertyBag"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1\\KnownFolders"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{5E6C858F-0E22-4760-9AFE-EA3317B67173}"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\explorer\\FolderDescriptions\\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\\PropertyBag"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\ProfileList\\S-1-5-21-3740676788-1466591295-3783685072-500"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\Shell\\RegisteredApplications\\UrlAssociations\\Directory\\OpenWithProgids"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\Directory"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\Directory"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\CurVer"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\(Default)"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\ShellEx\\IconHandler"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\Folder"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Folder\\ShellEx\\IconHandler"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_CLASSES_ROOT\\AllFilesystemObjects"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AllFilesystemObjects\\ShellEx\\IconHandler"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\DocObject"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Folder\\DocObject"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AllFilesystemObjects\\DocObject"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Directory\\BrowseInPlace"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Folder\\BrowseInPlace"}
+Registry,RegOpenKeyExW,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AllFilesystemObjects\\BrowseInPlace"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+MISC,GetCursorPos,{"Appearances": 1}
+UI,GetForegroundWindow,Not Found
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 1}
+MISC,GetSystemMetrics,{"Appearances": 2}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 1}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 2}
+UI,GetForegroundWindow,Not Found
+sync,NtDelayExecution,{"Appearances": 3}
+UI,GetForegroundWindow,Not Found
+sync,NtDelayExecution,{"Appearances": 4}
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+MISC,GetCursorPos,{"Appearances": 2}
+UI,GetForegroundWindow,Not Found
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 3}
+MISC,GetSystemMetrics,{"Appearances": 4}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 5}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+UI,GetForegroundWindow,Not Found
+sync,NtDelayExecution,{"Appearances": 6}
+sync,NtDelayExecution,{"Appearances": 7}
+sync,NtDelayExecution,{"Appearances": 8}
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+MISC,GetCursorPos,{"Appearances": 3}
+UI,GetForegroundWindow,Not Found
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 5}
+MISC,GetSystemMetrics,{"Appearances": 6}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 9}
+sync,NtDelayExecution,{"Appearances": 10}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 11}
+sync,NtDelayExecution,{"Appearances": 12}
+System,GetKeyState,{"module_name": "Not Found"}
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+MISC,GetCursorPos,{"Appearances": 4}
+UI,GetForegroundWindow,Not Found
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 7}
+MISC,GetSystemMetrics,{"Appearances": 8}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 13}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+UI,GetForegroundWindow,Not Found
+sync,NtDelayExecution,{"Appearances": 14}
+sync,NtDelayExecution,{"Appearances": 15}
+sync,NtDelayExecution,{"Appearances": 16}
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+MISC,GetCursorPos,{"Appearances": 5}
+UI,GetForegroundWindow,Not Found
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 9}
+MISC,GetSystemMetrics,{"Appearances": 10}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 17}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 18}
+sync,NtDelayExecution,{"Appearances": 19}
+sync,NtDelayExecution,{"Appearances": 20}
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+MISC,GetCursorPos,{"Appearances": 6}
+UI,GetForegroundWindow,Not Found
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 11}
+MISC,GetSystemMetrics,{"Appearances": 12}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 21}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+UI,GetForegroundWindow,Not Found
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 13}
+MISC,GetSystemMetrics,{"Appearances": 14}
+MISC,GetSystemMetrics,{"Appearances": 15}
+MISC,GetSystemMetrics,{"Appearances": 16}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 22}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 23}
+sync,NtDelayExecution,{"Appearances": 24}
+MISC,GetSystemMetrics,{"Appearances": 17}
+MISC,GetSystemMetrics,{"Appearances": 18}
+MISC,GetSystemMetrics,{"Appearances": 19}
+MISC,GetSystemMetrics,{"Appearances": 20}
+MISC,GetSystemMetrics,{"Appearances": 21}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 22}
+MISC,GetSystemMetrics,{"Appearances": 23}
+MISC,GetSystemMetrics,{"Appearances": 24}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 25}
+MISC,GetSystemMetrics,{"Appearances": 26}
+MISC,GetSystemMetrics,{"Appearances": 27}
+MISC,GetSystemMetrics,{"Appearances": 28}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 29}
+MISC,GetSystemMetrics,{"Appearances": 30}
+MISC,GetSystemMetrics,{"Appearances": 31}
+MISC,GetSystemMetrics,{"Appearances": 32}
+MISC,GetSystemMetrics,{"Appearances": 33}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 34}
+MISC,GetSystemMetrics,{"Appearances": 35}
+MISC,GetSystemMetrics,{"Appearances": 36}
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+MISC,GetCursorPos,{"Appearances": 7}
+UI,GetForegroundWindow,Not Found
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 37}
+MISC,GetSystemMetrics,{"Appearances": 38}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 25}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+UI,GetForegroundWindow,Not Found
+sync,NtDelayExecution,{"Appearances": 26}
+sync,NtDelayExecution,{"Appearances": 27}
+sync,NtDelayExecution,{"Appearances": 28}
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+MISC,GetCursorPos,{"Appearances": 8}
+UI,GetForegroundWindow,Not Found
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 39}
+MISC,GetSystemMetrics,{"Appearances": 40}
+sync,NtDelayExecution,{"Appearances": 29}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 30}
+sync,NtDelayExecution,{"Appearances": 31}
+sync,NtDelayExecution,{"Appearances": 32}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+UI,GetForegroundWindow,Not Found
+MISC,GetCursorPos,{"Appearances": 9}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 41}
+MISC,GetSystemMetrics,{"Appearances": 42}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 33}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 34}
+sync,NtDelayExecution,{"Appearances": 35}
+sync,NtDelayExecution,{"Appearances": 36}
+MISC,GetCursorPos,{"Appearances": 10}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 43}
+MISC,GetSystemMetrics,{"Appearances": 44}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 37}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 38}
+sync,NtDelayExecution,{"Appearances": 39}
+sync,NtDelayExecution,{"Appearances": 40}
+MISC,GetCursorPos,{"Appearances": 11}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 45}
+MISC,GetSystemMetrics,{"Appearances": 46}
+sync,NtDelayExecution,{"Appearances": 41}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 42}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 43}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 44}
+MISC,GetCursorPos,{"Appearances": 12}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 47}
+MISC,GetSystemMetrics,{"Appearances": 48}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 45}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 46}
+sync,NtDelayExecution,{"Appearances": 47}
+sync,NtDelayExecution,{"Appearances": 48}
+MISC,GetCursorPos,{"Appearances": 13}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 49}
+MISC,GetSystemMetrics,{"Appearances": 50}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 49}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 50}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 51}
+sync,NtDelayExecution,{"Appearances": 52}
+MISC,GetCursorPos,{"Appearances": 14}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 51}
+MISC,GetSystemMetrics,{"Appearances": 52}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+System,GetKeyState,{"module_name": "Not Found"}
+sync,NtDelayExecution,{"Appearances": 53}
+sync,NtDelayExecution,{"Appearances": 54}
+sync,NtDelayExecution,{"Appearances": 55}
+sync,NtDelayExecution,{"Appearances": 56}
+MISC,GetCursorPos,{"Appearances": 15}
+System,GetKeyState,{"module_name": "Not Found"}
+MISC,GetSystemMetrics,{"Appearances": 66}
+MISC,GetSystemMetrics,{"Appearances": 67}
+MISC,GetSystemMetrics,{"Appearances": 68}
+MISC,GetSystemMetrics,{"Appearances": 69}
+MISC,GetSystemMetrics,{"Appearances": 70}
+MISC,GetSystemMetrics,{"Appearances": 71}
+MISC,GetSystemMetrics,{"Appearances": 72}
+MISC,GetSystemMetrics,{"Appearances": 73}
+MISC,GetSystemMetrics,{"Appearances": 74}
+MISC,GetSystemMetrics,{"Appearances": 75}
+MISC,GetSystemMetrics,{"Appearances": 76}
+MISC,GetSystemMetrics,{"Appearances": 77}
+MISC,GetSystemMetrics,{"Appearances": 78}
+MISC,GetCursorPos,{"Appearances": 16}
+MISC,GetSystemMetrics,{"Appearances": 79}
+MISC,GetSystemMetrics,{"Appearances": 80}
+sync,NtDelayExecution,{"Appearances": 61}
+sync,NtDelayExecution,{"Appearances": 62}
+sync,NtDelayExecution,{"Appearances": 63}
+sync,NtDelayExecution,{"Appearances": 64}
+MISC,GetCursorPos,{"Appearances": 17}
+MISC,GetSystemMetrics,{"Appearances": 81}
+MISC,GetSystemMetrics,{"Appearances": 82}
+sync,NtDelayExecution,{"Appearances": 65}
+sync,NtDelayExecution,{"Appearances": 66}
+sync,NtDelayExecution,{"Appearances": 67}
+sync,NtDelayExecution,{"Appearances": 68}
+MISC,GetCursorPos,{"Appearances": 18}
+MISC,GetSystemMetrics,{"Appearances": 83}
+MISC,GetSystemMetrics,{"Appearances": 84}
+sync,NtDelayExecution,{"Appearances": 69}
+sync,NtDelayExecution,{"Appearances": 70}
+sync,NtDelayExecution,{"Appearances": 71}
+sync,NtDelayExecution,{"Appearances": 72}
+MISC,GetCursorPos,{"Appearances": 19}
+MISC,GetSystemMetrics,{"Appearances": 85}
+MISC,GetSystemMetrics,{"Appearances": 86}
+sync,NtDelayExecution,{"Appearances": 73}
+sync,NtDelayExecution,{"Appearances": 74}
+sync,NtDelayExecution,{"Appearances": 75}
+sync,NtDelayExecution,{"Appearances": 76}
+MISC,GetCursorPos,{"Appearances": 20}
+MISC,GetSystemMetrics,{"Appearances": 87}
+MISC,GetSystemMetrics,{"Appearances": 88}
+sync,NtDelayExecution,{"Appearances": 77}
+sync,NtDelayExecution,{"Appearances": 78}
+sync,NtDelayExecution,{"Appearances": 79}
+sync,NtDelayExecution,{"Appearances": 80}
+MISC,GetCursorPos,{"Appearances": 21}
+MISC,GetSystemMetrics,{"Appearances": 89}
+MISC,GetSystemMetrics,{"Appearances": 90}
+sync,NtDelayExecution,{"Appearances": 81}
+sync,NtDelayExecution,{"Appearances": 82}
+sync,NtDelayExecution,{"Appearances": 83}
+sync,NtDelayExecution,{"Appearances": 84}
+MISC,GetCursorPos,{"Appearances": 22}
+MISC,GetSystemMetrics,{"Appearances": 91}
+MISC,GetSystemMetrics,{"Appearances": 92}
+sync,NtDelayExecution,{"Appearances": 85}
+sync,NtDelayExecution,{"Appearances": 86}
+sync,NtDelayExecution,{"Appearances": 87}
+sync,NtDelayExecution,{"Appearances": 88}
+MISC,GetCursorPos,{"Appearances": 23}
+MISC,GetSystemMetrics,{"Appearances": 93}
+MISC,GetSystemMetrics,{"Appearances": 94}
+sync,NtDelayExecution,{"Appearances": 89}
+sync,NtDelayExecution,{"Appearances": 90}
+sync,NtDelayExecution,{"Appearances": 91}
+sync,NtDelayExecution,{"Appearances": 92}
+MISC,GetCursorPos,{"Appearances": 24}
+MISC,GetSystemMetrics,{"Appearances": 95}
+MISC,GetSystemMetrics,{"Appearances": 96}
+sync,NtDelayExecution,{"Appearances": 93}
+sync,NtDelayExecution,{"Appearances": 94}
+sync,NtDelayExecution,{"Appearances": 95}
+sync,NtDelayExecution,{"Appearances": 96}
+MISC,GetCursorPos,{"Appearances": 25}
+MISC,GetSystemMetrics,{"Appearances": 97}
+MISC,GetSystemMetrics,{"Appearances": 98}
+sync,NtDelayExecution,{"Appearances": 97}
+sync,NtDelayExecution,{"Appearances": 98}
+sync,NtDelayExecution,{"Appearances": 99}
+sync,NtDelayExecution,{"Appearances": 100}
+MISC,GetCursorPos,{"Appearances": 26}
+MISC,GetSystemMetrics,{"Appearances": 99}
+MISC,GetSystemMetrics,{"Appearances": 100}
+MISC,GetCursorPos,{"Appearances": 27}
+MISC,GetCursorPos,{"Appearances": 28}
+MISC,GetCursorPos,{"Appearances": 29}
+MISC,GetCursorPos,{"Appearances": 30}
+MISC,GetCursorPos,{"Appearances": 31}
+MISC,GetCursorPos,{"Appearances": 32}
+MISC,GetCursorPos,{"Appearances": 33}
+MISC,GetCursorPos,{"Appearances": 34}
+MISC,GetCursorPos,{"Appearances": 35}
+MISC,GetCursorPos,{"Appearances": 36}
+MISC,GetCursorPos,{"Appearances": 37}
+MISC,GetCursorPos,{"Appearances": 38}
+MISC,GetCursorPos,{"Appearances": 39}
+MISC,GetCursorPos,{"Appearances": 40}
+MISC,GetCursorPos,{"Appearances": 41}
+MISC,GetCursorPos,{"Appearances": 42}
+MISC,GetCursorPos,{"Appearances": 43}
+MISC,GetCursorPos,{"Appearances": 44}
+MISC,GetCursorPos,{"Appearances": 45}
+MISC,GetCursorPos,{"Appearances": 46}
+MISC,GetCursorPos,{"Appearances": 47}
+MISC,GetCursorPos,{"Appearances": 48}
+MISC,GetCursorPos,{"Appearances": 49}
+MISC,GetCursorPos,{"Appearances": 50}
+MISC,GetCursorPos,{"Appearances": 51}
+MISC,GetCursorPos,{"Appearances": 52}
+MISC,GetCursorPos,{"Appearances": 53}
+MISC,GetCursorPos,{"Appearances": 54}
+MISC,GetCursorPos,{"Appearances": 55}
+MISC,GetCursorPos,{"Appearances": 56}
+MISC,GetCursorPos,{"Appearances": 57}
+MISC,GetCursorPos,{"Appearances": 58}
+MISC,GetCursorPos,{"Appearances": 59}
+MISC,GetCursorPos,{"Appearances": 60}
+MISC,GetCursorPos,{"Appearances": 61}
+MISC,GetCursorPos,{"Appearances": 62}
+MISC,GetCursorPos,{"Appearances": 63}
+MISC,GetCursorPos,{"Appearances": 64}
+MISC,GetCursorPos,{"Appearances": 65}
+MISC,GetCursorPos,{"Appearances": 66}
+MISC,GetCursorPos,{"Appearances": 67}
+MISC,GetCursorPos,{"Appearances": 68}
+MISC,GetCursorPos,{"Appearances": 69}
+MISC,GetCursorPos,{"Appearances": 70}
+MISC,GetCursorPos,{"Appearances": 71}
+MISC,GetCursorPos,{"Appearances": 72}
+MISC,GetCursorPos,{"Appearances": 73}
+MISC,GetCursorPos,{"Appearances": 74}
+MISC,GetCursorPos,{"Appearances": 75}
+MISC,GetCursorPos,{"Appearances": 76}
+MISC,GetCursorPos,{"Appearances": 77}
+MISC,GetCursorPos,{"Appearances": 78}
+MISC,GetCursorPos,{"Appearances": 79}
+MISC,GetCursorPos,{"Appearances": 80}
+MISC,GetCursorPos,{"Appearances": 81}
+MISC,GetCursorPos,{"Appearances": 82}
+MISC,GetCursorPos,{"Appearances": 83}
+MISC,GetCursorPos,{"Appearances": 84}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Control Panel\\Personalization\\Desktop Slideshow"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Control Panel\\Personalization\\Desktop Slideshow"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_CURRENT_USER\\Control Panel\\Personalization\\Desktop Slideshow"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Control Panel\\Personalization\\Desktop Slideshow"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+MISC,GetCursorPos,{"Appearances": 85}
+MISC,GetCursorPos,{"Appearances": 86}
+MISC,GetCursorPos,{"Appearances": 87}
+MISC,GetCursorPos,{"Appearances": 88}
+MISC,GetCursorPos,{"Appearances": 89}
+MISC,GetCursorPos,{"Appearances": 90}
+MISC,GetCursorPos,{"Appearances": 91}
+MISC,GetCursorPos,{"Appearances": 92}
+MISC,GetCursorPos,{"Appearances": 93}
+MISC,GetCursorPos,{"Appearances": 94}
+MISC,GetCursorPos,{"Appearances": 95}
+MISC,GetCursorPos,{"Appearances": 96}
+MISC,GetCursorPos,{"Appearances": 97}
+MISC,GetCursorPos,{"Appearances": 98}
+MISC,GetCursorPos,{"Appearances": 99}
+MISC,GetCursorPos,{"Appearances": 100}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\DirectUI"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_CURRENT_USER"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000401"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000402"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000404"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000405"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000406"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000407"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000408"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000409"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000040a"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000040b"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000040c"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000040d"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000040e"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000040f"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000415"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000416"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000418"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000419"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000041a"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000041b"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000041c"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000041d"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000041e"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000041f"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000420"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000422"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000423"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000424"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000425"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000426"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000427"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000428"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000429"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000042a"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000042b"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000042c"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000042e"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000042f"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000432"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000437"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000438"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000439"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000043a"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000043b"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000043f"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000440"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000442"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000444"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000445"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000044b"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000044c"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000044d"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000044e"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000450"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000045b"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000461"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000463"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000465"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000468"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000046a"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000046c"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000046d"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000046e"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\0000046f"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000470"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000480"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000481"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000485"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000488"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtQueryKey,{"RegistryKey": "HKEY_LOCAL_MACHINE"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000804"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtOpenKeyEx,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\00000807"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,RegCloseKey,{"RegistryKey": "Not Found"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
+Registry,NtEnumerateKey,{"RegistryKey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layouts"}
